@@ -3,7 +3,6 @@
 - streaming toxpy python interface for ToxDB
 - From bioinformatics data analysis to machine and deep learning model.
 - a complete package which performs the ToxDB comparison and also fits a LSTM and Convolutional Neural Network with L2 regularization
-
 ```
 Usage: tox.py [OPTIONS] COMMAND [ARGS]...
 
@@ -28,7 +27,14 @@ Commands:
   toxcompare-f-option             same-protein-different-seq
   toxlstm-option                  implement the lstm on the PTM
 
+```
 
+```
+id1	id2	id1start	id2start	id1end	id2end	id1strand1	idstrand2
+TGME49_302060	1	454	-	TGME49_302060	1	454	-
+TGME49_302057	513	956	-	TGME49_302057	513	956	-
+TGME49_302055	977	1342	-	TGME49_302055	977	1342	-
+TGME49_300601	1349	1756	-	TGME49_300601	1349	1756	-
 ```
 
 Gaurav Sablok \

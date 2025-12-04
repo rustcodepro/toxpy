@@ -1,0 +1,978 @@
+##gff-version 3
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=508771
+##sequence-region KE138841 1 35372
+##sequence-region KE138851 1 13341
+##sequence-region KE138856 1 1030
+##sequence-region KE138857 1 1121
+##sequence-region KE138861 1 3123
+##sequence-region KE138862 1 11575
+##sequence-region KE138866 1 20505
+##sequence-region KE138868 1 16277
+##sequence-region KE138872 1 2617
+##sequence-region KE138874 1 13514
+##sequence-region KE138875 1 11753
+##sequence-region KE138877 1 1830
+##sequence-region KE138884 1 5047
+##sequence-region KE138885 1 1109
+##sequence-region KE138892 1 32330
+##sequence-region KE138898 1 1279
+##sequence-region KE138901 1 2988
+##sequence-region KE138905 1 2686
+##sequence-region KE138908 1 1010
+##sequence-region KE138913 1 3208
+##sequence-region KE138915 1 1442
+##sequence-region KE138917 1 6685
+##sequence-region KE138918 1 4160
+##sequence-region KE138919 1 6619
+##sequence-region KE138920 1 1361
+##sequence-region KE138921 1 1973
+##sequence-region KE138923 1 1021
+##sequence-region KE138924 1 1539
+##sequence-region KE138925 1 3095
+##sequence-region KE138926 1 1107
+##sequence-region KE138927 1 1036
+##sequence-region KE138928 1 3154
+##sequence-region KE138930 1 1296
+##sequence-region KE138931 1 1228
+##sequence-region KE138932 1 3819
+##sequence-region KE138933 1 1182
+##sequence-region KE138934 1 1092
+##sequence-region KE138935 1 1106
+##sequence-region KE138936 1 3824
+##sequence-region KE138938 1 2081
+##sequence-region KE138939 1 1483
+##sequence-region KE138940 1 1691
+##sequence-region KE138941 1 1043
+##sequence-region KE138942 1 2346
+##sequence-region KE138943 1 1895
+##sequence-region KE138944 1 3664
+##sequence-region KE138945 1 1077
+##sequence-region KE138946 1 3274
+##sequence-region KE138947 1 1049
+##sequence-region KE138948 1 1287
+##sequence-region KE138949 1 1068
+##sequence-region KE138951 1 2809
+##sequence-region KE138952 1 1019
+##sequence-region KE138953 1 1993
+##sequence-region KE138954 1 1024
+##sequence-region KE138955 1 1028
+##sequence-region KE138956 1 1241
+##sequence-region KE138957 1 1332
+##sequence-region KE138958 1 2332
+##sequence-region KE138959 1 1572
+##sequence-region KE138960 1 1088
+##sequence-region KE138961 1 1139
+##sequence-region KE138962 1 1016
+##sequence-region KE138963 1 1614
+##sequence-region KE138965 1 3042
+##sequence-region KE138967 1 1141
+##sequence-region KE138968 1 1006
+##sequence-region KE138969 1 1095
+##sequence-region KE138970 1 1008
+##sequence-region KE138971 1 1465
+##sequence-region KE138973 1 1257
+##sequence-region KE138975 1 2274
+##sequence-region KE138977 1 2205
+##sequence-region KE138978 1 1008
+##sequence-region KE138979 1 1054
+##sequence-region KE138980 1 1751
+##sequence-region KE138981 1 1631
+##sequence-region KE138982 1 1164
+##sequence-region KE138984 1 2669
+##sequence-region KE138985 1 1256
+##sequence-region KE138986 1 1095
+##sequence-region KE138987 1 1274
+##sequence-region KE138988 1 1117
+##sequence-region KE138989 1 1153
+##sequence-region KE138990 1 1131
+##sequence-region KE138991 1 1204
+##sequence-region KE138993 1 1079
+##sequence-region KE138994 1 1764
+##sequence-region KE138995 1 1400
+##sequence-region KE138996 1 1540
+##sequence-region KE138997 1 3213
+##sequence-region KE138998 1 1581
+##sequence-region KE138999 1 1054
+##sequence-region KE139001 1 1666
+##sequence-region KE139003 1 1058
+##sequence-region KE139004 1 1805
+##sequence-region KE139006 1 1781
+##sequence-region KE139008 1 1664
+##sequence-region KE139009 1 1345
+##sequence-region KE139011 1 1440
+##sequence-region KE139012 1 1023
+##sequence-region KE139014 1 1846
+##sequence-region KE139015 1 1477
+##sequence-region KE139016 1 1540
+##sequence-region KE139017 1 1917
+##sequence-region KE139018 1 1424
+##sequence-region KE139019 1 1855
+##sequence-region KE139021 1 1041
+##sequence-region KE139022 1 1517
+##sequence-region KE139023 1 1661
+##sequence-region KE139024 1 1830
+##sequence-region KE139025 1 1108
+##sequence-region KE139026 1 1079
+##sequence-region KE139027 1 1033
+##sequence-region KE139029 1 1337
+##sequence-region KE139030 1 1322
+##sequence-region KE139031 1 1169
+##sequence-region KE139032 1 1184
+##sequence-region KE139033 1 1660
+##sequence-region KE139034 1 1480
+##sequence-region KE139035 1 1656
+##sequence-region KE139036 1 1578
+##sequence-region KE139037 1 1658
+##sequence-region KE139038 1 1059
+##sequence-region KE139039 1 1020
+##sequence-region KE139041 1 2186
+##sequence-region KE139045 1 1511
+##sequence-region KE139046 1 1484
+##sequence-region KE139047 1 1133
+##sequence-region KE139048 1 1076
+##sequence-region KE139049 1 1202
+##sequence-region KE139050 1 1198
+##sequence-region KE139051 1 1379
+##sequence-region KE139052 1 1319
+##sequence-region KE139053 1 1303
+##sequence-region KE139054 1 1065
+##sequence-region KE139055 1 1431
+##sequence-region KE139056 1 1225
+##sequence-region KE139057 1 1786
+##sequence-region KE139058 1 1761
+##sequence-region KE139059 1 1041
+##sequence-region KE139062 1 1077
+##sequence-region KE139063 1 3333
+##sequence-region KE139066 1 1221
+##sequence-region KE139067 1 1657
+##sequence-region KE139068 1 1056
+##sequence-region KE139072 1 1258
+##sequence-region KE139074 1 1433
+##sequence-region KE139075 1 1463
+##sequence-region KE139083 1 1441
+##sequence-region KE139084 1 1280
+##sequence-region KE139085 1 1804
+##sequence-region KE139086 1 1096
+##sequence-region KE139088 1 1526
+##sequence-region KE139089 1 1332
+##sequence-region KE139091 1 1043
+##sequence-region KE139092 1 1355
+##sequence-region KE139093 1 1049
+##sequence-region KE139094 1 1155
+##sequence-region KE139095 1 1705
+##sequence-region KE139096 1 1219
+##sequence-region KE139097 1 1017
+##sequence-region KE139098 1 1021
+##sequence-region KE139099 1 1021
+##sequence-region KE139100 1 1524
+##sequence-region KE139101 1 1119
+##sequence-region KE139102 1 1152
+##sequence-region KE139103 1 1070
+##sequence-region KE139104 1 1495
+##sequence-region KE139105 1 1026
+##sequence-region KE139106 1 1015
+##sequence-region KE139108 1 1142
+##sequence-region KE139110 1 1044
+##sequence-region KE139111 1 1142
+##sequence-region KE139112 1 1067
+##sequence-region KE139113 1 1035
+##sequence-region KE139116 1 1009
+##sequence-region KE139124 1 1151
+##sequence-region KE139130 1 12872
+##sequence-region KE139135 1 4662
+##sequence-region KE139136 1 4103
+##sequence-region KE139140 1 20306
+##sequence-region KE139158 1 1247
+##sequence-region KE139166 1 1700
+##sequence-region KE139167 1 1594
+##sequence-region KE139188 1 5142
+##sequence-region KE139194 1 6873
+##sequence-region KE139198 1 1272
+##sequence-region KE139199 1 1245
+##sequence-region KE139200 1 5485
+##sequence-region KE139206 1 1213
+##sequence-region KE139207 1 1370
+##sequence-region KE139209 1 1004
+##sequence-region KE139210 1 1336
+##sequence-region KE139211 1 1248
+##sequence-region KE139213 1 3512
+##sequence-region KE139214 1 2181
+##sequence-region KE139216 1 1225
+##sequence-region KE139217 1 1241
+##sequence-region KE139218 1 1083
+##sequence-region KE139219 1 1501
+##sequence-region KE139220 1 1465
+##sequence-region KE139221 1 1987
+##sequence-region KE139222 1 3666
+##sequence-region KE139223 1 1857
+##sequence-region KE139224 1 1668
+##sequence-region KE139225 1 1526
+##sequence-region KE139226 1 1697
+##sequence-region KE139227 1 1118
+##sequence-region KE139228 1 2748
+##sequence-region KE139229 1 2845
+##sequence-region KE139230 1 3471
+##sequence-region KE139231 1 1269
+##sequence-region KE139233 1 1386
+##sequence-region KE139234 1 1031
+##sequence-region KE139235 1 1682
+##sequence-region KE139236 1 1051
+##sequence-region KE139237 1 1273
+##sequence-region KE139238 1 3159
+##sequence-region KE139239 1 1168
+##sequence-region KE139241 1 1557
+##sequence-region KE139242 1 3708
+##sequence-region KE139243 1 1101
+##sequence-region KE139244 1 1100
+##sequence-region KE139245 1 1168
+##sequence-region KE139246 1 1574
+##sequence-region KE139248 1 1277
+##sequence-region KE139249 1 1480
+##sequence-region KE139250 1 1113
+##sequence-region KE139251 1 2676
+##sequence-region KE139252 1 1011
+##sequence-region KE139253 1 2510
+##sequence-region KE139254 1 1047
+##sequence-region KE139256 1 1070
+##sequence-region KE139257 1 1044
+##sequence-region KE139258 1 3834
+##sequence-region KE139261 1 2317
+##sequence-region KE139262 1 1002
+##sequence-region KE139263 1 1008
+##sequence-region KE139264 1 1488
+##sequence-region KE139265 1 1038
+##sequence-region KE139266 1 1003
+##sequence-region KE139267 1 1434
+##sequence-region KE139268 1 1297
+##sequence-region KE139269 1 1055
+##sequence-region KE139270 1 1238
+##sequence-region KE139271 1 1377
+##sequence-region KE139273 1 1023
+##sequence-region KE139274 1 1125
+##sequence-region KE139275 1 1148
+##sequence-region KE139276 1 2398
+##sequence-region KE139277 1 1464
+##sequence-region KE139278 1 1000
+##sequence-region KE139279 1 4559
+##sequence-region KE139280 1 1053
+##sequence-region KE139281 1 1038
+##sequence-region KE139282 1 1231
+##sequence-region KE139283 1 1043
+##sequence-region KE139284 1 1396
+##sequence-region KE139285 1 1459
+##sequence-region KE139286 1 1949
+##sequence-region KE139287 1 1094
+##sequence-region KE139288 1 1046
+##sequence-region KE139290 1 1354
+##sequence-region KE139292 1 1172
+##sequence-region KE139293 1 1421
+##sequence-region KE139294 1 1652
+##sequence-region KE139295 1 1645
+##sequence-region KE139296 1 1344
+##sequence-region KE139297 1 1990
+##sequence-region KE139299 1 1306
+##sequence-region KE139300 1 1510
+##sequence-region KE139301 1 1040
+##sequence-region KE139302 1 1597
+##sequence-region KE139304 1 1466
+##sequence-region KE139305 1 1412
+##sequence-region KE139306 1 1203
+##sequence-region KE139307 1 1272
+##sequence-region KE139308 1 1508
+##sequence-region KE139309 1 1539
+##sequence-region KE139310 1 1018
+##sequence-region KE139311 1 1484
+##sequence-region KE139312 1 1463
+##sequence-region KE139313 1 1736
+##sequence-region KE139314 1 1001
+##sequence-region KE139315 1 1204
+##sequence-region KE139316 1 1268
+##sequence-region KE139317 1 1450
+##sequence-region KE139318 1 2804
+##sequence-region KE139319 1 1522
+##sequence-region KE139320 1 1040
+##sequence-region KE139321 1 1408
+##sequence-region KE139322 1 1295
+##sequence-region KE139323 1 1000
+##sequence-region KE139324 1 1056
+##sequence-region KE139325 1 1046
+##sequence-region KE139327 1 1450
+##sequence-region KE139328 1 1455
+##sequence-region KE139329 1 1074
+##sequence-region KE139330 1 1462
+##sequence-region KE139335 1 1570
+##sequence-region KE139340 1 2315
+##sequence-region KE139341 1 1278
+##sequence-region KE139342 1 1039
+##sequence-region KE139343 1 1243
+##sequence-region KE139344 1 1271
+##sequence-region KE139345 1 1028
+##sequence-region KE139346 1 1081
+##sequence-region KE139347 1 1515
+##sequence-region KE139348 1 1711
+##sequence-region KE139349 1 1023
+##sequence-region KE139350 1 1645
+##sequence-region KE139351 1 1026
+##sequence-region KE139355 1 1020
+##sequence-region KE139356 1 1775
+##sequence-region KE139357 1 1957
+##sequence-region KE139358 1 1078
+##sequence-region KE139359 1 1182
+##sequence-region KE139360 1 1175
+##sequence-region KE139361 1 1246
+##sequence-region KE139362 1 1062
+##sequence-region KE139364 1 1496
+##sequence-region KE139365 1 1141
+##sequence-region KE139368 1 1008
+##sequence-region KE139369 1 1682
+##sequence-region KE139370 1 1018
+##sequence-region KE139372 1 1329
+##sequence-region KE139375 1 1055
+##sequence-region KE139377 1 1023
+##sequence-region KE139378 1 1376
+##sequence-region KE139379 1 1203
+##sequence-region KE139380 1 1245
+##sequence-region KE139381 1 1098
+##sequence-region KE139382 1 1462
+##sequence-region KE139383 1 1443
+##sequence-region KE139384 1 1862
+##sequence-region KE139387 1 1181
+##sequence-region KE139388 1 1489
+##sequence-region KE139389 1 2041
+##sequence-region KE139390 1 1068
+##sequence-region KE139391 1 1142
+##sequence-region KE139392 1 1319
+##sequence-region KE139393 1 1573
+##sequence-region KE139395 1 1015
+##sequence-region KE139396 1 1051
+##sequence-region KE139397 1 1205
+##sequence-region KE139398 1 1188
+##sequence-region KE139399 1 1016
+##sequence-region KE139400 1 1553
+##sequence-region KE139401 1 1524
+##sequence-region KE139402 1 1362
+##sequence-region KE139403 1 1040
+##sequence-region KE139419 1 1437
+##sequence-region KE139431 1 1010
+##sequence-region KE139432 1 1004
+##sequence-region KE139434 1 5175
+##sequence-region KE139435 1 6162
+##sequence-region KE139436 1 6777
+##sequence-region KE139437 1 6513
+##sequence-region KE139443 1 1068
+##sequence-region KE139444 1 1095
+##sequence-region KE139445 1 1098
+##sequence-region KE139457 1 1076
+##sequence-region KE139459 1 2669
+##sequence-region KE139468 1 1018
+##sequence-region KE139469 1 1094
+##sequence-region KE139472 1 1021
+##sequence-region KE139488 1 1105
+##sequence-region KE139489 1 1060
+##sequence-region KE139502 1 1086
+##sequence-region KE139526 1 1013
+##sequence-region KE139530 1 1031
+##sequence-region KE139540 1 1017
+##sequence-region KE139545 1 1078
+##sequence-region KE139547 1 1021
+##sequence-region KE139550 1 1009
+##sequence-region KE139551 1 1025
+##sequence-region KE139552 1 958
+##sequence-region KE139555 1 1025
+##sequence-region KE139569 1 1005
+##sequence-region KE139570 1 1008
+##sequence-region KE139580 1 1009
+##sequence-region KE139607 1 1004
+##sequence-region KE139608 1 1037
+##sequence-region KE139613 1 1052
+##sequence-region KE139624 1 1016
+##sequence-region KE139630 1 1072
+##sequence-region KE139633 1 1016
+##sequence-region KE139636 1 1005
+##sequence-region KE139641 1 1078
+##sequence-region KE139656 1 1012
+##sequence-region KE139657 1 1009
+##sequence-region KE139665 1 1053
+##sequence-region KE139668 1 1005
+##sequence-region KE139678 1 1058
+##sequence-region KE139697 1 1016
+##sequence-region KE139702 1 1051
+##sequence-region KE139705 1 8595
+##sequence-region KE139714 1 1241
+##sequence-region KE139723 1 1049
+##sequence-region KE139727 1 1029
+##sequence-region KE139754 1 1088
+##sequence-region KE139755 1 1018
+##sequence-region KE139761 1 1054
+##sequence-region KE139772 1 1035
+##sequence-region KE139784 1 1039
+##sequence-region KE139788 1 1015
+##sequence-region KE139792 1 1003
+##sequence-region KE139796 1 1070
+##sequence-region KE139797 1 1036
+##sequence-region KE139801 1 1021
+##sequence-region KE139812 1 12974
+##sequence-region KE139816 1 17865
+##sequence-region KE139817 1 16009
+##sequence-region KE139818 1 16102
+##sequence-region KE139819 1 21061
+##sequence-region KE139822 1 36142
+##sequence-region KE139826 1 11863
+##sequence-region KE139841 1 11018
+##sequence-region KE139842 1 15749
+##sequence-region KE139844 1 25313
+##sequence-region KE139849 1 14163
+##sequence-region TGME49_chrII 1 2347032
+##sequence-region TGME49_chrIII 1 2532871
+##sequence-region TGME49_chrIV 1 2686605
+##sequence-region TGME49_chrIX 1 6327655
+##sequence-region TGME49_chrIa 1 1859933
+##sequence-region TGME49_chrIb 1 1955354
+##sequence-region TGME49_chrV 1 3331915
+##sequence-region TGME49_chrVI 1 3656745
+##sequence-region TGME49_chrVIII 1 6970285
+##sequence-region TGME49_chrVIIa 1 4541629
+##sequence-region TGME49_chrVIIb 1 5069724
+##sequence-region TGME49_chrX 1 7486190
+##sequence-region TGME49_chrXI 1 6623461
+##sequence-region TGME49_chrXII 1 7094428
+TGME49_chrXII	VEuPathDB	protein_coding_gene	2245476	2248187	.	-	.	ID=TGME49_200010;Name=GRA20;description=dense granule protein GRA20;ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	mRNA	2245476	2248187	.	-	.	ID=TGME49_200010.R447;Parent=TGME49_200010;description=dense granule protein GRA20;gene_ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	exon	2245476	2247209	.	-	.	ID=exon_TGME49_200010.R447-E2;Parent=TGME49_200010.R447;gene_id=TGME49_200010
+TGME49_chrXII	VEuPathDB	exon	2247554	2248187	.	-	.	ID=exon_TGME49_200010.R447-E1;Parent=TGME49_200010.R447;gene_id=TGME49_200010
+TGME49_chrXII	VEuPathDB	CDS	2246111	2247209	.	-	1	ID=TGME49_200010.P447-CDS2;Parent=TGME49_200010.R447;gene_id=TGME49_200010;protein_source_id=TGME49_200010.P447
+TGME49_chrXII	VEuPathDB	CDS	2247554	2247696	.	-	0	ID=TGME49_200010.P447-CDS1;Parent=TGME49_200010.R447;gene_id=TGME49_200010;protein_source_id=TGME49_200010.P447
+TGME49_chrXII	VEuPathDB	three_prime_UTR	2245476	2246110	.	-	.	ID=utr_TGME49_200010.R447_1;Parent=TGME49_200010.R447
+TGME49_chrXII	VEuPathDB	five_prime_UTR	2247697	2248187	.	-	.	ID=utr_TGME49_200010.R447_2;Parent=TGME49_200010.R447
+TGME49_chrXII	VEuPathDB	protein_coding_gene	7071370	7071773	.	+	.	ID=TGME49_200110;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	mRNA	7071370	7071773	.	+	.	ID=TGME49_200110-t26_1;Parent=TGME49_200110;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	exon	7071370	7071773	.	+	.	ID=exon_TGME49_200110-t26_1-E1;Parent=TGME49_200110-t26_1;gene_id=TGME49_200110
+TGME49_chrXII	VEuPathDB	CDS	7071396	7071773	.	+	0	ID=TGME49_200110-t26_1-p1-CDS1;Parent=TGME49_200110-t26_1;gene_id=TGME49_200110;protein_source_id=TGME49_200110-t26_1-p1
+TGME49_chrXII	VEuPathDB	five_prime_UTR	7071370	7071395	.	+	.	ID=utr_TGME49_200110-t26_1_1;Parent=TGME49_200110-t26_1
+TGME49_chrXII	VEuPathDB	protein_coding_gene	7033492	7035777	.	+	.	ID=TGME49_200130;description=Toxoplasma gondii family C protein [Source:UniProtKB/TrEMBL%3BAcc:A0A125YKY2];ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	mRNA	7033492	7035777	.	+	.	ID=TGME49_200130-t26_1;Parent=TGME49_200130;description=Toxoplasma gondii family C protein;gene_ebi_biotype=protein_coding
+TGME49_chrXII	VEuPathDB	exon	7033492	7034389	.	+	.	ID=exon_TGME49_200130-t26_1-E1;Parent=TGME49_200130-t26_1;gene_id=TGME49_200130
+TGME49_chrXII	VEuPathDB	exon	7035618	7035777	.	+	.	ID=exon_TGME49_200130-t26_1-E2;Parent=TGME49_200130-t26_1;gene_id=TGME49_200130
+TGME49_chrXII	VEuPathDB	CDS	7033833	7034389	.	+	0	ID=TGME49_200130-t26_1-p1-CDS1;Parent=TGME49_200130-t26_1;gene_id=TGME49_200130;protein_source_id=TGME49_200130-t26_1-p1
+TGME49_chrXII	VEuPathDB	CDS	7035618	7035777	.	+	1	ID=TGME49_200130-t26_1-p1-CDS2;Parent=TGME49_200130-t26_1;gene_id=TGME49_200130;protein_source_id=TGME49_200130-t26_1-p1
+TGME49_chrXII	VEuPathDB	five_prime_UTR	7033492	7033832	.	+	.	ID=utr_TGME49_200130-t26_1_1;Parent=TGME49_200130-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6753611	6755422	.	-	.	ID=TGME49_200230;Name=MIC17C;description=Microneme protein MIC17C [Source:UniProtKB/TrEMBL%3BAcc:S8EXK9];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6753611	6755422	.	-	.	ID=TGME49_200230-t26_1;Parent=TGME49_200230;description=microneme protein MIC17C;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6753611	6755422	.	-	.	ID=exon_TGME49_200230-t26_1-E1;Parent=TGME49_200230-t26_1;gene_id=TGME49_200230
+TGME49_chrVIII	VEuPathDB	CDS	6753611	6755422	.	-	0	ID=TGME49_200230-t26_1-p1-CDS1;Parent=TGME49_200230-t26_1;gene_id=TGME49_200230;protein_source_id=TGME49_200230-t26_1-p1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6757441	6758931	.	-	.	ID=TGME49_200240;Name=MIC17B;description=Microneme protein MIC17B [Source:UniProtKB/TrEMBL%3BAcc:S8G8W7];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6757441	6758931	.	-	.	ID=TGME49_200240-t26_1;Parent=TGME49_200240;description=microneme protein MIC17B;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6757441	6758931	.	-	.	ID=exon_TGME49_200240-t26_1-E1;Parent=TGME49_200240-t26_1;gene_id=TGME49_200240
+TGME49_chrVIII	VEuPathDB	CDS	6757644	6758699	.	-	0	ID=TGME49_200240-t26_1-p1-CDS1;Parent=TGME49_200240-t26_1;gene_id=TGME49_200240;protein_source_id=TGME49_200240-t26_1-p1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6757441	6757643	.	-	.	ID=utr_TGME49_200240-t26_1_1;Parent=TGME49_200240-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6758700	6758931	.	-	.	ID=utr_TGME49_200240-t26_1_2;Parent=TGME49_200240-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6760140	6762383	.	-	.	ID=TGME49_200250;Name=MIC17A;description=Microneme protein MIC17A [Source:UniProtKB/TrEMBL%3BAcc:S8GIC9];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6760140	6762383	.	-	.	ID=TGME49_200250-t26_1;Parent=TGME49_200250;description=microneme protein MIC17A;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6760140	6761690	.	-	.	ID=exon_TGME49_200250-t26_1-E3;Parent=TGME49_200250-t26_1;gene_id=TGME49_200250
+TGME49_chrVIII	VEuPathDB	exon	6761863	6761972	.	-	.	ID=exon_TGME49_200250-t26_1-E2;Parent=TGME49_200250-t26_1;gene_id=TGME49_200250
+TGME49_chrVIII	VEuPathDB	exon	6762257	6762383	.	-	.	ID=exon_TGME49_200250-t26_1-E1;Parent=TGME49_200250-t26_1;gene_id=TGME49_200250
+TGME49_chrVIII	VEuPathDB	CDS	6760497	6761552	.	-	0	ID=TGME49_200250-t26_1-p1-CDS1;Parent=TGME49_200250-t26_1;gene_id=TGME49_200250;protein_source_id=TGME49_200250-t26_1-p1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6760140	6760496	.	-	.	ID=utr_TGME49_200250-t26_1_1;Parent=TGME49_200250-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6761553	6761690	.	-	.	ID=utr_TGME49_200250-t26_1_2;Parent=TGME49_200250-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6761863	6761972	.	-	.	ID=utr_TGME49_200250-t26_1_3;Parent=TGME49_200250-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6762257	6762383	.	-	.	ID=utr_TGME49_200250-t26_1_4;Parent=TGME49_200250-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6764706	6765800	.	+	.	ID=TGME49_200260;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6764706	6765800	.	+	.	ID=TGME49_200260-t26_1;Parent=TGME49_200260;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6764706	6765106	.	+	.	ID=exon_TGME49_200260-t26_1-E1;Parent=TGME49_200260-t26_1;gene_id=TGME49_200260
+TGME49_chrVIII	VEuPathDB	exon	6765425	6765800	.	+	.	ID=exon_TGME49_200260-t26_1-E2;Parent=TGME49_200260-t26_1;gene_id=TGME49_200260
+TGME49_chrVIII	VEuPathDB	CDS	6765099	6765106	.	+	0	ID=TGME49_200260-t26_1-p1-CDS1;Parent=TGME49_200260-t26_1;gene_id=TGME49_200260;protein_source_id=TGME49_200260-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6765425	6765800	.	+	1	ID=TGME49_200260-t26_1-p1-CDS2;Parent=TGME49_200260-t26_1;gene_id=TGME49_200260;protein_source_id=TGME49_200260-t26_1-p1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6764706	6765098	.	+	.	ID=utr_TGME49_200260-t26_1_1;Parent=TGME49_200260-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6766719	6768513	.	+	.	ID=TGME49_200270;description=PAN/Apple domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:S8F0R5];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6766719	6768513	.	+	.	ID=TGME49_200270-t26_1;Parent=TGME49_200270;description=PAN/Apple domain-containing protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6766719	6768513	.	+	.	ID=exon_TGME49_200270-t26_1-E1;Parent=TGME49_200270-t26_1;gene_id=TGME49_200270
+TGME49_chrVIII	VEuPathDB	CDS	6766966	6768021	.	+	0	ID=TGME49_200270-t26_1-p1-CDS1;Parent=TGME49_200270-t26_1;gene_id=TGME49_200270;protein_source_id=TGME49_200270-t26_1-p1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6766719	6766965	.	+	.	ID=utr_TGME49_200270-t26_1_1;Parent=TGME49_200270-t26_1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6768022	6768513	.	+	.	ID=utr_TGME49_200270-t26_1_2;Parent=TGME49_200270-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6769906	6772752	.	-	.	ID=TGME49_200280;description=WD domain%2C G-beta repeat-containing protein [Source:UniProtKB/TrEMBL%3BAcc:S8EXK6];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6769906	6772752	.	-	.	ID=TGME49_200280-t26_1;Parent=TGME49_200280;description=WD domain%2C G-beta repeat-containing protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6769906	6772752	.	-	.	ID=exon_TGME49_200280-t26_1-E1;Parent=TGME49_200280-t26_1;gene_id=TGME49_200280
+TGME49_chrVIII	VEuPathDB	CDS	6769906	6772752	.	-	0	ID=TGME49_200280-t26_1-p1-CDS1;Parent=TGME49_200280-t26_1;gene_id=TGME49_200280;protein_source_id=TGME49_200280-t26_1-p1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6774898	6778962	.	+	.	ID=TGME49_200290;Name=ROM1;description=RHOMBOID-like protein [Source:UniProtKB/TrEMBL%3BAcc:S8G8W2];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6774898	6778962	.	+	.	ID=TGME49_200290-t26_1;Parent=TGME49_200290;Note=3.4.21.105 (Rhomboid protease);description=rhomboid protease ROM1;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6774898	6775626	.	+	.	ID=exon_TGME49_200290-t26_1-E1;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290
+TGME49_chrVIII	VEuPathDB	exon	6776473	6776667	.	+	.	ID=exon_TGME49_200290-t26_1-E2;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290
+TGME49_chrVIII	VEuPathDB	exon	6776935	6777204	.	+	.	ID=exon_TGME49_200290-t26_1-E3;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290
+TGME49_chrVIII	VEuPathDB	exon	6777730	6777906	.	+	.	ID=exon_TGME49_200290-t26_1-E4;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290
+TGME49_chrVIII	VEuPathDB	exon	6778307	6778962	.	+	.	ID=exon_TGME49_200290-t26_1-E5;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290
+TGME49_chrVIII	VEuPathDB	CDS	6775554	6775626	.	+	0	ID=TGME49_200290-t26_1-p1-CDS1;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290;protein_source_id=TGME49_200290-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6776473	6776667	.	+	2	ID=TGME49_200290-t26_1-p1-CDS2;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290;protein_source_id=TGME49_200290-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6776935	6777204	.	+	2	ID=TGME49_200290-t26_1-p1-CDS3;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290;protein_source_id=TGME49_200290-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6777730	6777906	.	+	2	ID=TGME49_200290-t26_1-p1-CDS4;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290;protein_source_id=TGME49_200290-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6778307	6778473	.	+	2	ID=TGME49_200290-t26_1-p1-CDS5;Parent=TGME49_200290-t26_1;gene_id=TGME49_200290;protein_source_id=TGME49_200290-t26_1-p1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6774898	6775553	.	+	.	ID=utr_TGME49_200290-t26_1_1;Parent=TGME49_200290-t26_1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6778474	6778962	.	+	.	ID=utr_TGME49_200290-t26_1_2;Parent=TGME49_200290-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6793066	6795502	.	-	.	ID=TGME49_200310;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6793066	6795502	.	-	.	ID=TGME49_200310.R448;Parent=TGME49_200310;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6793066	6793603	.	-	.	ID=exon_TGME49_200310.R448-E4;Parent=TGME49_200310.R448;gene_id=TGME49_200310
+TGME49_chrVIII	VEuPathDB	exon	6794090	6794248	.	-	.	ID=exon_TGME49_200310.R448-E3;Parent=TGME49_200310.R448;gene_id=TGME49_200310
+TGME49_chrVIII	VEuPathDB	exon	6794670	6794717	.	-	.	ID=exon_TGME49_200310.R448-E2;Parent=TGME49_200310.R448;gene_id=TGME49_200310
+TGME49_chrVIII	VEuPathDB	exon	6795353	6795502	.	-	.	ID=exon_TGME49_200310.R448-E1;Parent=TGME49_200310.R448;gene_id=TGME49_200310
+TGME49_chrVIII	VEuPathDB	CDS	6793538	6793603	.	-	0	ID=TGME49_200310.P448-CDS4;Parent=TGME49_200310.R448;gene_id=TGME49_200310;protein_source_id=TGME49_200310.P448
+TGME49_chrVIII	VEuPathDB	CDS	6794090	6794248	.	-	0	ID=TGME49_200310.P448-CDS3;Parent=TGME49_200310.R448;gene_id=TGME49_200310;protein_source_id=TGME49_200310.P448
+TGME49_chrVIII	VEuPathDB	CDS	6794670	6794717	.	-	0	ID=TGME49_200310.P448-CDS2;Parent=TGME49_200310.R448;gene_id=TGME49_200310;protein_source_id=TGME49_200310.P448
+TGME49_chrVIII	VEuPathDB	CDS	6795353	6795361	.	-	0	ID=TGME49_200310.P448-CDS1;Parent=TGME49_200310.R448;gene_id=TGME49_200310;protein_source_id=TGME49_200310.P448
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6793066	6793537	.	-	.	ID=utr_TGME49_200310.R448_1;Parent=TGME49_200310.R448
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6795362	6795502	.	-	.	ID=utr_TGME49_200310.R448_2;Parent=TGME49_200310.R448
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6795849	6798931	.	+	.	ID=TGME49_200320;Name=HXGPRT;description=hypoxanthine-xanthine-guanine phosphoribosyl transferase HXGPRT;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6796464	6798931	.	+	.	ID=TGME49_200320.R449;Parent=TGME49_200320;Note=2.4.2.8 (Hypoxanthine phosphoribosyltransferase);description=hypoxanthine-xanthine-guanine phosphoribosyl transferase HXGPRT;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6795849	6798931	.	+	.	ID=TGME49_200320.R452;Parent=TGME49_200320;Note=2.4.2.8 (Hypoxanthine phosphoribosyltransferase);description=hypoxanthine-xanthine-guanine phosphoribosyl transferase HXGPRT;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6795850	6798931	.	+	.	ID=TGME49_200320.R450;Parent=TGME49_200320;Note=2.4.2.8 (Hypoxanthine phosphoribosyltransferase);description=hypoxanthine-xanthine-guanine phosphoribosyl transferase HXGPRT;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6796459	6798931	.	+	.	ID=TGME49_200320.R451;Parent=TGME49_200320;Note=2.4.2.8 (Hypoxanthine phosphoribosyltransferase);description=hypoxanthine-xanthine-guanine phosphoribosyl transferase HXGPRT;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6795849	6796114	.	+	.	ID=exon_TGME49_200320.R452-E1;Parent=TGME49_200320.R452;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6795850	6796114	.	+	.	ID=exon_TGME49_200320.R450-E1;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796459	6796719	.	+	.	ID=exon_TGME49_200320.R451-E1;Parent=TGME49_200320.R451;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796464	6796719	.	+	.	ID=exon_TGME49_200320.R449-E1;Parent=TGME49_200320.R449;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796654	6796719	.	+	.	ID=exon_TGME49_200320.R450-E2;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796654	6796719	.	+	.	ID=exon_TGME49_200320.R450-E2;Parent=TGME49_200320.R452;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796841	6796987	.	+	.	ID=exon_TGME49_200320.R450-E3;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6796841	6796987	.	+	.	ID=exon_TGME49_200320.R450-E3;Parent=TGME49_200320.R451;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797500	6797653	.	+	.	ID=exon_TGME49_200320.R449-E2;Parent=TGME49_200320.R449;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797500	6797653	.	+	.	ID=exon_TGME49_200320.R449-E2;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797500	6797653	.	+	.	ID=exon_TGME49_200320.R449-E2;Parent=TGME49_200320.R451;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797500	6797653	.	+	.	ID=exon_TGME49_200320.R449-E2;Parent=TGME49_200320.R452;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797808	6797920	.	+	.	ID=exon_TGME49_200320.R449-E3;Parent=TGME49_200320.R449;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797808	6797920	.	+	.	ID=exon_TGME49_200320.R449-E3;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797808	6797920	.	+	.	ID=exon_TGME49_200320.R449-E3;Parent=TGME49_200320.R451;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6797808	6797920	.	+	.	ID=exon_TGME49_200320.R449-E3;Parent=TGME49_200320.R452;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6798115	6798931	.	+	.	ID=exon_TGME49_200320.R449-E4;Parent=TGME49_200320.R449;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6798115	6798931	.	+	.	ID=exon_TGME49_200320.R449-E4;Parent=TGME49_200320.R450;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6798115	6798931	.	+	.	ID=exon_TGME49_200320.R449-E4;Parent=TGME49_200320.R451;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	exon	6798115	6798931	.	+	.	ID=exon_TGME49_200320.R449-E4;Parent=TGME49_200320.R452;gene_id=TGME49_200320
+TGME49_chrVIII	VEuPathDB	CDS	6796697	6796719	.	+	0	ID=TGME49_200320.P449-CDS1;Parent=TGME49_200320.R449;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P449
+TGME49_chrVIII	VEuPathDB	CDS	6796697	6796719	.	+	0	ID=TGME49_200320.P452-CDS1;Parent=TGME49_200320.R452;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P452
+TGME49_chrVIII	VEuPathDB	CDS	6796697	6796719	.	+	0	ID=TGME49_200320.P450-CDS1;Parent=TGME49_200320.R450;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P450
+TGME49_chrVIII	VEuPathDB	CDS	6796697	6796719	.	+	0	ID=TGME49_200320.P451-CDS1;Parent=TGME49_200320.R451;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P451
+TGME49_chrVIII	VEuPathDB	CDS	6796841	6796987	.	+	1	ID=TGME49_200320.P450-CDS2;Parent=TGME49_200320.R450;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P450
+TGME49_chrVIII	VEuPathDB	CDS	6796841	6796987	.	+	1	ID=TGME49_200320.P451-CDS2;Parent=TGME49_200320.R451;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P451
+TGME49_chrVIII	VEuPathDB	CDS	6797500	6797653	.	+	1	ID=TGME49_200320.P449-CDS2;Parent=TGME49_200320.R449;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P449
+TGME49_chrVIII	VEuPathDB	CDS	6797500	6797653	.	+	1	ID=TGME49_200320.P452-CDS2;Parent=TGME49_200320.R452;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P452
+TGME49_chrVIII	VEuPathDB	CDS	6797500	6797653	.	+	1	ID=TGME49_200320.P450-CDS3;Parent=TGME49_200320.R450;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P450
+TGME49_chrVIII	VEuPathDB	CDS	6797500	6797653	.	+	1	ID=TGME49_200320.P451-CDS3;Parent=TGME49_200320.R451;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P451
+TGME49_chrVIII	VEuPathDB	CDS	6797808	6797920	.	+	0	ID=TGME49_200320.P449-CDS3;Parent=TGME49_200320.R449;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P449
+TGME49_chrVIII	VEuPathDB	CDS	6797808	6797920	.	+	0	ID=TGME49_200320.P452-CDS3;Parent=TGME49_200320.R452;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P452
+TGME49_chrVIII	VEuPathDB	CDS	6797808	6797920	.	+	0	ID=TGME49_200320.P450-CDS4;Parent=TGME49_200320.R450;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P450
+TGME49_chrVIII	VEuPathDB	CDS	6797808	6797920	.	+	0	ID=TGME49_200320.P451-CDS4;Parent=TGME49_200320.R451;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P451
+TGME49_chrVIII	VEuPathDB	CDS	6798115	6798517	.	+	1	ID=TGME49_200320.P449-CDS4;Parent=TGME49_200320.R449;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P449
+TGME49_chrVIII	VEuPathDB	CDS	6798115	6798517	.	+	1	ID=TGME49_200320.P452-CDS4;Parent=TGME49_200320.R452;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P452
+TGME49_chrVIII	VEuPathDB	CDS	6798115	6798517	.	+	1	ID=TGME49_200320.P450-CDS5;Parent=TGME49_200320.R450;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P450
+TGME49_chrVIII	VEuPathDB	CDS	6798115	6798517	.	+	1	ID=TGME49_200320.P451-CDS5;Parent=TGME49_200320.R451;gene_id=TGME49_200320;protein_source_id=TGME49_200320.P451
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6795849	6796114	.	+	.	ID=utr_TGME49_200320.R452_1;Parent=TGME49_200320.R452
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6795850	6796114	.	+	.	ID=utr_TGME49_200320.R450_1;Parent=TGME49_200320.R450
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6796459	6796696	.	+	.	ID=utr_TGME49_200320.R451_1;Parent=TGME49_200320.R451
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6796464	6796696	.	+	.	ID=utr_TGME49_200320.R449_1;Parent=TGME49_200320.R449
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6796654	6796696	.	+	.	ID=utr_TGME49_200320.R452_2;Parent=TGME49_200320.R452
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6796654	6796696	.	+	.	ID=utr_TGME49_200320.R450_2;Parent=TGME49_200320.R450
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6798518	6798931	.	+	.	ID=utr_TGME49_200320.R449_2;Parent=TGME49_200320.R449
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6798518	6798931	.	+	.	ID=utr_TGME49_200320.R452_3;Parent=TGME49_200320.R452
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6798518	6798931	.	+	.	ID=utr_TGME49_200320.R450_3;Parent=TGME49_200320.R450
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6798518	6798931	.	+	.	ID=utr_TGME49_200320.R451_2;Parent=TGME49_200320.R451
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6803584	6810351	.	-	.	ID=TGME49_200330;Name=BCC9;description=basal complex component BCC9;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6803584	6810351	.	-	.	ID=TGME49_200330.R453;Parent=TGME49_200330;description=basal complex component BCC9;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6803584	6804483	.	-	.	ID=exon_TGME49_200330.R453-E12;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6804787	6804839	.	-	.	ID=exon_TGME49_200330.R453-E11;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6805016	6805170	.	-	.	ID=exon_TGME49_200330.R453-E10;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6805964	6806111	.	-	.	ID=exon_TGME49_200330.R453-E9;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6806325	6806472	.	-	.	ID=exon_TGME49_200330.R453-E8;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6806698	6806759	.	-	.	ID=exon_TGME49_200330.R453-E7;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6806918	6806998	.	-	.	ID=exon_TGME49_200330.R453-E6;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6807142	6807202	.	-	.	ID=exon_TGME49_200330.R453-E5;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6807600	6807825	.	-	.	ID=exon_TGME49_200330.R453-E4;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6808134	6808275	.	-	.	ID=exon_TGME49_200330.R453-E3;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6808732	6809043	.	-	.	ID=exon_TGME49_200330.R453-E2;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	exon	6809547	6810351	.	-	.	ID=exon_TGME49_200330.R453-E1;Parent=TGME49_200330.R453;gene_id=TGME49_200330
+TGME49_chrVIII	VEuPathDB	CDS	6804414	6804483	.	-	1	ID=TGME49_200330.P453-CDS12;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6804787	6804839	.	-	0	ID=TGME49_200330.P453-CDS11;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6805016	6805170	.	-	2	ID=TGME49_200330.P453-CDS10;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6805964	6806111	.	-	0	ID=TGME49_200330.P453-CDS9;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6806325	6806472	.	-	1	ID=TGME49_200330.P453-CDS8;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6806698	6806759	.	-	0	ID=TGME49_200330.P453-CDS7;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6806918	6806998	.	-	0	ID=TGME49_200330.P453-CDS6;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6807142	6807202	.	-	1	ID=TGME49_200330.P453-CDS5;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6807600	6807825	.	-	2	ID=TGME49_200330.P453-CDS4;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6808134	6808275	.	-	0	ID=TGME49_200330.P453-CDS3;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6808732	6809043	.	-	0	ID=TGME49_200330.P453-CDS2;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	CDS	6809547	6809858	.	-	0	ID=TGME49_200330.P453-CDS1;Parent=TGME49_200330.R453;gene_id=TGME49_200330;protein_source_id=TGME49_200330.P453
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6803584	6804413	.	-	.	ID=utr_TGME49_200330.R453_1;Parent=TGME49_200330.R453
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6809859	6810351	.	-	.	ID=utr_TGME49_200330.R453_2;Parent=TGME49_200330.R453
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6811561	6813899	.	-	.	ID=TGME49_200340;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6811561	6813899	.	-	.	ID=TGME49_200340.R454;Parent=TGME49_200340;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6811561	6813899	.	-	.	ID=exon_TGME49_200340.R454-E1;Parent=TGME49_200340.R454;gene_id=TGME49_200340
+TGME49_chrVIII	VEuPathDB	CDS	6812189	6812968	.	-	0	ID=TGME49_200340.P454-CDS1;Parent=TGME49_200340.R454;gene_id=TGME49_200340;protein_source_id=TGME49_200340.P454
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6811561	6812188	.	-	.	ID=utr_TGME49_200340.R454_1;Parent=TGME49_200340.R454
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6812969	6813899	.	-	.	ID=utr_TGME49_200340.R454_2;Parent=TGME49_200340.R454
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6813964	6821727	.	+	.	ID=TGME49_200350;Name=SUB3;description=subtilisin SUB3;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6813964	6821727	.	+	.	ID=TGME49_200350.R455;Parent=TGME49_200350;Note=3.4.21.62 (Subtilisin);description=subtilisin SUB3;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6813964	6817208	.	+	.	ID=exon_TGME49_200350.R455-E1;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	exon	6817757	6818001	.	+	.	ID=exon_TGME49_200350.R455-E2;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	exon	6818299	6818400	.	+	.	ID=exon_TGME49_200350.R455-E3;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	exon	6818824	6818954	.	+	.	ID=exon_TGME49_200350.R455-E4;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	exon	6819882	6820109	.	+	.	ID=exon_TGME49_200350.R455-E5;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	exon	6820242	6821727	.	+	.	ID=exon_TGME49_200350.R455-E6;Parent=TGME49_200350.R455;gene_id=TGME49_200350
+TGME49_chrVIII	VEuPathDB	CDS	6815991	6817208	.	+	0	ID=TGME49_200350.P455-CDS1;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	CDS	6817757	6818001	.	+	0	ID=TGME49_200350.P455-CDS2;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	CDS	6818299	6818400	.	+	1	ID=TGME49_200350.P455-CDS3;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	CDS	6818824	6818954	.	+	1	ID=TGME49_200350.P455-CDS4;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	CDS	6819882	6820109	.	+	2	ID=TGME49_200350.P455-CDS5;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	CDS	6820242	6821227	.	+	2	ID=TGME49_200350.P455-CDS6;Parent=TGME49_200350.R455;gene_id=TGME49_200350;protein_source_id=TGME49_200350.P455
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6813964	6815990	.	+	.	ID=utr_TGME49_200350.R455_1;Parent=TGME49_200350.R455
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6821228	6821727	.	+	.	ID=utr_TGME49_200350.R455_2;Parent=TGME49_200350.R455
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6824308	6825403	.	+	.	ID=TGME49_200360;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6824308	6825403	.	+	.	ID=TGME49_200360-t26_1;Parent=TGME49_200360;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6824308	6825403	.	+	.	ID=exon_TGME49_200360-t26_1-E1;Parent=TGME49_200360-t26_1;gene_id=TGME49_200360
+TGME49_chrVIII	VEuPathDB	CDS	6824629	6825189	.	+	0	ID=TGME49_200360-t26_1-p1-CDS1;Parent=TGME49_200360-t26_1;gene_id=TGME49_200360;protein_source_id=TGME49_200360-t26_1-p1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6824308	6824628	.	+	.	ID=utr_TGME49_200360-t26_1_1;Parent=TGME49_200360-t26_1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6825190	6825403	.	+	.	ID=utr_TGME49_200360-t26_1_2;Parent=TGME49_200360-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6825484	6831459	.	-	.	ID=TGME49_200370;description=protein farnesyltransferase subunit beta%2C putative;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6825484	6831459	.	-	.	ID=TGME49_200370.R456;Parent=TGME49_200370;Note=2.5.1.58 (Protein farnesyltransferase);description=protein farnesyltransferase subunit beta%2C putative;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6825484	6826444	.	-	.	ID=exon_TGME49_200370.R456-E6;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	exon	6827651	6827799	.	-	.	ID=exon_TGME49_200370.R456-E5;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	exon	6828276	6828427	.	-	.	ID=exon_TGME49_200370.R456-E4;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	exon	6828775	6828932	.	-	.	ID=exon_TGME49_200370.R456-E3;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	exon	6829387	6829791	.	-	.	ID=exon_TGME49_200370.R456-E2;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	exon	6830365	6831459	.	-	.	ID=exon_TGME49_200370.R456-E1;Parent=TGME49_200370.R456;gene_id=TGME49_200370
+TGME49_chrVIII	VEuPathDB	CDS	6826060	6826444	.	-	1	ID=TGME49_200370.P456-CDS6;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	CDS	6827651	6827799	.	-	0	ID=TGME49_200370.P456-CDS5;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	CDS	6828276	6828427	.	-	2	ID=TGME49_200370.P456-CDS4;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	CDS	6828775	6828932	.	-	1	ID=TGME49_200370.P456-CDS3;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	CDS	6829387	6829791	.	-	1	ID=TGME49_200370.P456-CDS2;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	CDS	6830365	6831032	.	-	0	ID=TGME49_200370.P456-CDS1;Parent=TGME49_200370.R456;gene_id=TGME49_200370;protein_source_id=TGME49_200370.P456
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6825484	6826059	.	-	.	ID=utr_TGME49_200370.R456_1;Parent=TGME49_200370.R456
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6831033	6831459	.	-	.	ID=utr_TGME49_200370.R456_2;Parent=TGME49_200370.R456
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6832904	6847548	.	-	.	ID=TGME49_200385;Name=BFD1;description=bradyzoite-formation deficient protein BFD1;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6832904	6847548	.	-	.	ID=TGME49_200385.R457;Parent=TGME49_200385;description=bradyzoite-formation deficient protein BFD1;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6832904	6836225	.	-	.	ID=exon_TGME49_200385.R457-E6;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	exon	6836748	6840967	.	-	.	ID=exon_TGME49_200385.R457-E5;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	exon	6841283	6841389	.	-	.	ID=exon_TGME49_200385.R457-E4;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	exon	6841531	6843025	.	-	.	ID=exon_TGME49_200385.R457-E3;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	exon	6843310	6843533	.	-	.	ID=exon_TGME49_200385.R457-E2;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	exon	6843684	6847548	.	-	.	ID=exon_TGME49_200385.R457-E1;Parent=TGME49_200385.R457;gene_id=TGME49_200385
+TGME49_chrVIII	VEuPathDB	CDS	6836174	6836225	.	-	1	ID=TGME49_200385.P457-CDS6;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	CDS	6836748	6840967	.	-	0	ID=TGME49_200385.P457-CDS5;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	CDS	6841283	6841389	.	-	2	ID=TGME49_200385.P457-CDS4;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	CDS	6841531	6843025	.	-	0	ID=TGME49_200385.P457-CDS3;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	CDS	6843310	6843533	.	-	2	ID=TGME49_200385.P457-CDS2;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	CDS	6843684	6844833	.	-	0	ID=TGME49_200385.P457-CDS1;Parent=TGME49_200385.R457;gene_id=TGME49_200385;protein_source_id=TGME49_200385.P457
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6832904	6836173	.	-	.	ID=utr_TGME49_200385.R457_1;Parent=TGME49_200385.R457
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6844834	6847548	.	-	.	ID=utr_TGME49_200385.R457_2;Parent=TGME49_200385.R457
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6849854	6864271	.	-	.	ID=TGME49_200400;Name=PR48;description=serine/threonine-protein phosphatase PP2A regulatory subunit PR48;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6849854	6864271	.	-	.	ID=TGME49_200400.R458;Parent=TGME49_200400;description=serine/threonine-protein phosphatase PP2A regulatory subunit PR48;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6849854	6850285	.	-	.	ID=exon_TGME49_200400.R458-E16;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6850568	6850667	.	-	.	ID=exon_TGME49_200400.R458-E15;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6851515	6851703	.	-	.	ID=exon_TGME49_200400.R458-E14;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6851893	6851988	.	-	.	ID=exon_TGME49_200400.R458-E13;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6852738	6852828	.	-	.	ID=exon_TGME49_200400.R458-E12;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6853374	6853483	.	-	.	ID=exon_TGME49_200400.R458-E11;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6854304	6854390	.	-	.	ID=exon_TGME49_200400.R458-E10;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6854664	6854746	.	-	.	ID=exon_TGME49_200400.R458-E9;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6855424	6855491	.	-	.	ID=exon_TGME49_200400.R458-E8;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6856672	6856743	.	-	.	ID=exon_TGME49_200400.R458-E7;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6857544	6857806	.	-	.	ID=exon_TGME49_200400.R458-E6;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6858145	6858208	.	-	.	ID=exon_TGME49_200400.R458-E5;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6858666	6858823	.	-	.	ID=exon_TGME49_200400.R458-E4;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6859424	6860478	.	-	.	ID=exon_TGME49_200400.R458-E3;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6861815	6862382	.	-	.	ID=exon_TGME49_200400.R458-E2;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	exon	6863070	6864271	.	-	.	ID=exon_TGME49_200400.R458-E1;Parent=TGME49_200400.R458;gene_id=TGME49_200400
+TGME49_chrVIII	VEuPathDB	CDS	6850217	6850285	.	-	0	ID=TGME49_200400.P458-CDS16;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6850568	6850667	.	-	1	ID=TGME49_200400.P458-CDS15;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6851515	6851703	.	-	1	ID=TGME49_200400.P458-CDS14;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6851893	6851988	.	-	1	ID=TGME49_200400.P458-CDS13;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6852738	6852828	.	-	2	ID=TGME49_200400.P458-CDS12;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6853374	6853483	.	-	1	ID=TGME49_200400.P458-CDS11;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6854304	6854390	.	-	1	ID=TGME49_200400.P458-CDS10;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6854664	6854746	.	-	0	ID=TGME49_200400.P458-CDS9;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6855424	6855491	.	-	2	ID=TGME49_200400.P458-CDS8;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6856672	6856743	.	-	2	ID=TGME49_200400.P458-CDS7;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6857544	6857806	.	-	1	ID=TGME49_200400.P458-CDS6;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6858145	6858208	.	-	2	ID=TGME49_200400.P458-CDS5;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6858666	6858823	.	-	1	ID=TGME49_200400.P458-CDS4;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6859424	6860478	.	-	0	ID=TGME49_200400.P458-CDS3;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6861815	6862382	.	-	1	ID=TGME49_200400.P458-CDS2;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	CDS	6863070	6863173	.	-	0	ID=TGME49_200400.P458-CDS1;Parent=TGME49_200400.R458;gene_id=TGME49_200400;protein_source_id=TGME49_200400.P458
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6849854	6850216	.	-	.	ID=utr_TGME49_200400.R458_1;Parent=TGME49_200400.R458
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6863174	6864271	.	-	.	ID=utr_TGME49_200400.R458_2;Parent=TGME49_200400.R458
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6867383	6872225	.	-	.	ID=TGME49_200410;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6867383	6872225	.	-	.	ID=TGME49_200410.R459;Parent=TGME49_200410;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6867383	6872225	.	-	.	ID=exon_TGME49_200410.R459-E1;Parent=TGME49_200410.R459;gene_id=TGME49_200410
+TGME49_chrVIII	VEuPathDB	CDS	6868069	6870852	.	-	0	ID=TGME49_200410.P459-CDS1;Parent=TGME49_200410.R459;gene_id=TGME49_200410;protein_source_id=TGME49_200410.P459
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6867383	6868068	.	-	.	ID=utr_TGME49_200410.R459_1;Parent=TGME49_200410.R459
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6870853	6872225	.	-	.	ID=utr_TGME49_200410.R459_2;Parent=TGME49_200410.R459
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6873050	6881609	.	-	.	ID=TGME49_200430;description=cytidine and deoxycytidylate deaminase zinc-binding region domain-containing protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6873050	6881609	.	-	.	ID=TGME49_200430.R460;Parent=TGME49_200430;Note=3.5.4.12 (dCMP deaminase);description=cytidine and deoxycytidylate deaminase zinc-binding region domain-containing protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6873050	6873422	.	-	.	ID=exon_TGME49_200430.R460-E11;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6873986	6874054	.	-	.	ID=exon_TGME49_200430.R460-E10;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6874352	6874431	.	-	.	ID=exon_TGME49_200430.R460-E9;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6874723	6874876	.	-	.	ID=exon_TGME49_200430.R460-E8;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6875460	6875490	.	-	.	ID=exon_TGME49_200430.R460-E7;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6876058	6876160	.	-	.	ID=exon_TGME49_200430.R460-E6;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6877128	6877196	.	-	.	ID=exon_TGME49_200430.R460-E5;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6877816	6877885	.	-	.	ID=exon_TGME49_200430.R460-E4;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6878165	6878285	.	-	.	ID=exon_TGME49_200430.R460-E3;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6878974	6879043	.	-	.	ID=exon_TGME49_200430.R460-E2;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	exon	6879779	6881609	.	-	.	ID=exon_TGME49_200430.R460-E1;Parent=TGME49_200430.R460;gene_id=TGME49_200430
+TGME49_chrVIII	VEuPathDB	CDS	6873345	6873422	.	-	0	ID=TGME49_200430.P460-CDS11;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6873986	6874054	.	-	0	ID=TGME49_200430.P460-CDS10;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6874352	6874431	.	-	2	ID=TGME49_200430.P460-CDS9;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6874723	6874876	.	-	0	ID=TGME49_200430.P460-CDS8;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6875460	6875490	.	-	1	ID=TGME49_200430.P460-CDS7;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6876058	6876160	.	-	2	ID=TGME49_200430.P460-CDS6;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6877128	6877196	.	-	2	ID=TGME49_200430.P460-CDS5;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6877816	6877885	.	-	0	ID=TGME49_200430.P460-CDS4;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6878165	6878285	.	-	1	ID=TGME49_200430.P460-CDS3;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6878974	6879043	.	-	2	ID=TGME49_200430.P460-CDS2;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	CDS	6879779	6880478	.	-	0	ID=TGME49_200430.P460-CDS1;Parent=TGME49_200430.R460;gene_id=TGME49_200430;protein_source_id=TGME49_200430.P460
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6873050	6873344	.	-	.	ID=utr_TGME49_200430.R460_1;Parent=TGME49_200430.R460
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6880479	6881609	.	-	.	ID=utr_TGME49_200430.R460_2;Parent=TGME49_200430.R460
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6881942	6888409	.	+	.	ID=TGME49_200440;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6881942	6888409	.	+	.	ID=TGME49_200440.R461;Parent=TGME49_200440;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6881942	6885051	.	+	.	ID=exon_TGME49_200440.R461-E1;Parent=TGME49_200440.R461;gene_id=TGME49_200440
+TGME49_chrVIII	VEuPathDB	exon	6886053	6888409	.	+	.	ID=exon_TGME49_200440.R461-E2;Parent=TGME49_200440.R461;gene_id=TGME49_200440
+TGME49_chrVIII	VEuPathDB	CDS	6883172	6885051	.	+	0	ID=TGME49_200440.P461-CDS1;Parent=TGME49_200440.R461;gene_id=TGME49_200440;protein_source_id=TGME49_200440.P461
+TGME49_chrVIII	VEuPathDB	CDS	6886053	6887049	.	+	1	ID=TGME49_200440.P461-CDS2;Parent=TGME49_200440.R461;gene_id=TGME49_200440;protein_source_id=TGME49_200440.P461
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6881942	6883171	.	+	.	ID=utr_TGME49_200440.R461_1;Parent=TGME49_200440.R461
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6887050	6888409	.	+	.	ID=utr_TGME49_200440.R461_2;Parent=TGME49_200440.R461
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6889255	6898068	.	-	.	ID=TGME49_200450;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6889255	6898068	.	-	.	ID=TGME49_200450.R462;Parent=TGME49_200450;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6889255	6890862	.	-	.	ID=exon_TGME49_200450.R462-E7;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6891135	6891350	.	-	.	ID=exon_TGME49_200450.R462-E6;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6892206	6892263	.	-	.	ID=exon_TGME49_200450.R462-E5;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6892891	6893002	.	-	.	ID=exon_TGME49_200450.R462-E4;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6893641	6893756	.	-	.	ID=exon_TGME49_200450.R462-E3;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6894328	6894372	.	-	.	ID=exon_TGME49_200450.R462-E2;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	exon	6894919	6898068	.	-	.	ID=exon_TGME49_200450.R462-E1;Parent=TGME49_200450.R462;gene_id=TGME49_200450
+TGME49_chrVIII	VEuPathDB	CDS	6889595	6890862	.	-	2	ID=TGME49_200450.P462-CDS7;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6891135	6891350	.	-	2	ID=TGME49_200450.P462-CDS6;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6892206	6892263	.	-	0	ID=TGME49_200450.P462-CDS5;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6892891	6893002	.	-	1	ID=TGME49_200450.P462-CDS4;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6893641	6893756	.	-	0	ID=TGME49_200450.P462-CDS3;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6894328	6894372	.	-	0	ID=TGME49_200450.P462-CDS2;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	CDS	6894919	6897057	.	-	0	ID=TGME49_200450.P462-CDS1;Parent=TGME49_200450.R462;gene_id=TGME49_200450;protein_source_id=TGME49_200450.P462
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6889255	6889594	.	-	.	ID=utr_TGME49_200450.R462_1;Parent=TGME49_200450.R462
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6897058	6898068	.	-	.	ID=utr_TGME49_200450.R462_2;Parent=TGME49_200450.R462
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6899386	6908121	.	-	.	ID=TGME49_200460;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6899386	6908121	.	-	.	ID=TGME49_200460-t26_1;Parent=TGME49_200460;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6899386	6900429	.	-	.	ID=exon_TGME49_200460-t26_1-E9;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6900903	6900981	.	-	.	ID=exon_TGME49_200460-t26_1-E8;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6901490	6901574	.	-	.	ID=exon_TGME49_200460-t26_1-E7;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6901964	6901996	.	-	.	ID=exon_TGME49_200460-t26_1-E6;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6902454	6902466	.	-	.	ID=exon_TGME49_200460-t26_1-E5;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6903254	6903299	.	-	.	ID=exon_TGME49_200460-t26_1-E4;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6903862	6903917	.	-	.	ID=exon_TGME49_200460-t26_1-E3;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6904874	6904925	.	-	.	ID=exon_TGME49_200460-t26_1-E2;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	exon	6905455	6908121	.	-	.	ID=exon_TGME49_200460-t26_1-E1;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460
+TGME49_chrVIII	VEuPathDB	CDS	6900394	6900429	.	-	0	ID=TGME49_200460-t26_1-p1-CDS9;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6900903	6900981	.	-	1	ID=TGME49_200460-t26_1-p1-CDS8;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6901490	6901574	.	-	2	ID=TGME49_200460-t26_1-p1-CDS7;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6901964	6901996	.	-	2	ID=TGME49_200460-t26_1-p1-CDS6;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6902454	6902466	.	-	0	ID=TGME49_200460-t26_1-p1-CDS5;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6903254	6903299	.	-	1	ID=TGME49_200460-t26_1-p1-CDS4;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6903862	6903917	.	-	0	ID=TGME49_200460-t26_1-p1-CDS3;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6904874	6904925	.	-	1	ID=TGME49_200460-t26_1-p1-CDS2;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6905455	6906365	.	-	0	ID=TGME49_200460-t26_1-p1-CDS1;Parent=TGME49_200460-t26_1;gene_id=TGME49_200460;protein_source_id=TGME49_200460-t26_1-p1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6899386	6900393	.	-	.	ID=utr_TGME49_200460-t26_1_1;Parent=TGME49_200460-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6906366	6908121	.	-	.	ID=utr_TGME49_200460-t26_1_2;Parent=TGME49_200460-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6908284	6913937	.	+	.	ID=TGME49_200470;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6908284	6913937	.	+	.	ID=TGME49_200470-t26_1;Parent=TGME49_200470;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6908284	6908861	.	+	.	ID=exon_TGME49_200470-t26_1-E1;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6909353	6909758	.	+	.	ID=exon_TGME49_200470-t26_1-E2;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6910454	6910692	.	+	.	ID=exon_TGME49_200470-t26_1-E3;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6911008	6911646	.	+	.	ID=exon_TGME49_200470-t26_1-E4;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6911923	6911997	.	+	.	ID=exon_TGME49_200470-t26_1-E5;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6912318	6912544	.	+	.	ID=exon_TGME49_200470-t26_1-E6;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	exon	6912905	6913937	.	+	.	ID=exon_TGME49_200470-t26_1-E7;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470
+TGME49_chrVIII	VEuPathDB	CDS	6909422	6909758	.	+	0	ID=TGME49_200470-t26_1-p1-CDS1;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6910454	6910692	.	+	2	ID=TGME49_200470-t26_1-p1-CDS2;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6911008	6911646	.	+	0	ID=TGME49_200470-t26_1-p1-CDS3;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6911923	6911997	.	+	0	ID=TGME49_200470-t26_1-p1-CDS4;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6912318	6912544	.	+	0	ID=TGME49_200470-t26_1-p1-CDS5;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6912905	6913238	.	+	1	ID=TGME49_200470-t26_1-p1-CDS6;Parent=TGME49_200470-t26_1;gene_id=TGME49_200470;protein_source_id=TGME49_200470-t26_1-p1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6908284	6908861	.	+	.	ID=utr_TGME49_200470-t26_1_1;Parent=TGME49_200470-t26_1
+TGME49_chrVIII	VEuPathDB	five_prime_UTR	6909353	6909421	.	+	.	ID=utr_TGME49_200470-t26_1_2;Parent=TGME49_200470-t26_1
+TGME49_chrVIII	VEuPathDB	three_prime_UTR	6913239	6913937	.	+	.	ID=utr_TGME49_200470-t26_1_3;Parent=TGME49_200470-t26_1
+TGME49_chrVIII	VEuPathDB	protein_coding_gene	6916849	6917687	.	+	.	ID=TGME49_200480;description=Toxoplasma gondii family B protein [Source:UniProtKB/TrEMBL%3BAcc:S8EXJ0];ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	mRNA	6916849	6917687	.	+	.	ID=TGME49_200480-t26_1;Parent=TGME49_200480;description=Toxoplasma gondii family B protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIII	VEuPathDB	exon	6916849	6917105	.	+	.	ID=exon_TGME49_200480-t26_1-E1;Parent=TGME49_200480-t26_1;gene_id=TGME49_200480
+TGME49_chrVIII	VEuPathDB	exon	6917441	6917687	.	+	.	ID=exon_TGME49_200480-t26_1-E2;Parent=TGME49_200480-t26_1;gene_id=TGME49_200480
+TGME49_chrVIII	VEuPathDB	CDS	6916849	6917105	.	+	0	ID=TGME49_200480-t26_1-p1-CDS1;Parent=TGME49_200480-t26_1;gene_id=TGME49_200480;protein_source_id=TGME49_200480-t26_1-p1
+TGME49_chrVIII	VEuPathDB	CDS	6917441	6917687	.	+	1	ID=TGME49_200480-t26_1-p1-CDS2;Parent=TGME49_200480-t26_1;gene_id=TGME49_200480;protein_source_id=TGME49_200480-t26_1-p1
+TGME49_chrX	VEuPathDB	protein_coding_gene	71897	76300	.	-	.	ID=TGME49_200590;description=Toxoplasma gondii family C protein [Source:UniProtKB/TrEMBL%3BAcc:S8GFX6];ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	mRNA	71897	76300	.	-	.	ID=TGME49_200590-t26_1;Parent=TGME49_200590;description=Toxoplasma gondii family C protein;gene_ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	exon	71897	72428	.	-	.	ID=exon_TGME49_200590-t26_1-E5;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590
+TGME49_chrX	VEuPathDB	exon	73658	73826	.	-	.	ID=exon_TGME49_200590-t26_1-E4;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590
+TGME49_chrX	VEuPathDB	exon	73969	73984	.	-	.	ID=exon_TGME49_200590-t26_1-E3;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590
+TGME49_chrX	VEuPathDB	exon	74156	74244	.	-	.	ID=exon_TGME49_200590-t26_1-E2;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590
+TGME49_chrX	VEuPathDB	exon	75543	76300	.	-	.	ID=exon_TGME49_200590-t26_1-E1;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590
+TGME49_chrX	VEuPathDB	CDS	73784	73826	.	-	1	ID=TGME49_200590-t26_1-p1-CDS4;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590;protein_source_id=TGME49_200590-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	73969	73984	.	-	2	ID=TGME49_200590-t26_1-p1-CDS3;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590;protein_source_id=TGME49_200590-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	74156	74244	.	-	1	ID=TGME49_200590-t26_1-p1-CDS2;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590;protein_source_id=TGME49_200590-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	75543	76000	.	-	0	ID=TGME49_200590-t26_1-p1-CDS1;Parent=TGME49_200590-t26_1;gene_id=TGME49_200590;protein_source_id=TGME49_200590-t26_1-p1
+TGME49_chrX	VEuPathDB	three_prime_UTR	71897	72428	.	-	.	ID=utr_TGME49_200590-t26_1_1;Parent=TGME49_200590-t26_1
+TGME49_chrX	VEuPathDB	three_prime_UTR	73658	73783	.	-	.	ID=utr_TGME49_200590-t26_1_2;Parent=TGME49_200590-t26_1
+TGME49_chrX	VEuPathDB	five_prime_UTR	76001	76300	.	-	.	ID=utr_TGME49_200590-t26_1_3;Parent=TGME49_200590-t26_1
+TGME49_chrX	VEuPathDB	protein_coding_gene	78447	81019	.	-	.	ID=TGME49_200595;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	mRNA	78447	81019	.	-	.	ID=TGME49_200595-t26_1;Parent=TGME49_200595;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	exon	78447	78552	.	-	.	ID=exon_TGME49_200595-t26_1-E6;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	exon	78828	78876	.	-	.	ID=exon_TGME49_200595-t26_1-E5;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	exon	79112	79122	.	-	.	ID=exon_TGME49_200595-t26_1-E4;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	exon	79226	79346	.	-	.	ID=exon_TGME49_200595-t26_1-E3;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	exon	80108	80143	.	-	.	ID=exon_TGME49_200595-t26_1-E2;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	exon	80962	81019	.	-	.	ID=exon_TGME49_200595-t26_1-E1;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595
+TGME49_chrX	VEuPathDB	CDS	78447	78552	.	-	1	ID=TGME49_200595-t26_1-p1-CDS6;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	78828	78876	.	-	2	ID=TGME49_200595-t26_1-p1-CDS5;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	79112	79122	.	-	1	ID=TGME49_200595-t26_1-p1-CDS4;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	79226	79346	.	-	2	ID=TGME49_200595-t26_1-p1-CDS3;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	80108	80143	.	-	2	ID=TGME49_200595-t26_1-p1-CDS2;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	CDS	80962	81019	.	-	0	ID=TGME49_200595-t26_1-p1-CDS1;Parent=TGME49_200595-t26_1;gene_id=TGME49_200595;protein_source_id=TGME49_200595-t26_1-p1
+TGME49_chrX	VEuPathDB	protein_coding_gene	81465	82808	.	+	.	ID=TGME49_200600;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	mRNA	81465	82808	.	+	.	ID=TGME49_200600.R463;Parent=TGME49_200600;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	exon	81465	82808	.	+	.	ID=exon_TGME49_200600.R463-E1;Parent=TGME49_200600.R463;gene_id=TGME49_200600
+TGME49_chrX	VEuPathDB	CDS	81512	81937	.	+	0	ID=TGME49_200600.P463-CDS1;Parent=TGME49_200600.R463;gene_id=TGME49_200600;protein_source_id=TGME49_200600.P463
+TGME49_chrX	VEuPathDB	five_prime_UTR	81465	81511	.	+	.	ID=utr_TGME49_200600.R463_1;Parent=TGME49_200600.R463
+TGME49_chrX	VEuPathDB	three_prime_UTR	81938	82808	.	+	.	ID=utr_TGME49_200600.R463_2;Parent=TGME49_200600.R463
+TGME49_chrX	VEuPathDB	protein_coding_gene	12199	12618	.	-	.	ID=TGME49_200700;description=Toxoplasma gondii family C protein [Source:UniProtKB/TrEMBL%3BAcc:S8F1J9];ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	mRNA	12199	12618	.	-	.	ID=TGME49_200700-t26_1;Parent=TGME49_200700;description=Toxoplasma gondii family C protein;gene_ebi_biotype=protein_coding
+TGME49_chrX	VEuPathDB	exon	12199	12618	.	-	.	ID=exon_TGME49_200700-t26_1-E1;Parent=TGME49_200700-t26_1;gene_id=TGME49_200700
+TGME49_chrX	VEuPathDB	CDS	12199	12618	.	-	0	ID=TGME49_200700-t26_1-p1-CDS1;Parent=TGME49_200700-t26_1;gene_id=TGME49_200700;protein_source_id=TGME49_200700-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	4042782	4044561	.	-	.	ID=TGME49_201100;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	4042782	4044561	.	-	.	ID=TGME49_201100-t26_1;Parent=TGME49_201100;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	4042782	4044561	.	-	.	ID=exon_TGME49_201100-t26_1-E1;Parent=TGME49_201100-t26_1;gene_id=TGME49_201100
+TGME49_chrVIIa	VEuPathDB	CDS	4042994	4043683	.	-	0	ID=TGME49_201100-t26_1-p1-CDS1;Parent=TGME49_201100-t26_1;gene_id=TGME49_201100;protein_source_id=TGME49_201100-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4042782	4042993	.	-	.	ID=utr_TGME49_201100-t26_1_1;Parent=TGME49_201100-t26_1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4043684	4044561	.	-	.	ID=utr_TGME49_201100-t26_1_2;Parent=TGME49_201100-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	4039322	4041566	.	-	.	ID=TGME49_201110;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	4039322	4041566	.	-	.	ID=TGME49_201110.R464;Parent=TGME49_201110;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	4039322	4039728	.	-	.	ID=exon_TGME49_201110.R464-E4;Parent=TGME49_201110.R464;gene_id=TGME49_201110
+TGME49_chrVIIa	VEuPathDB	exon	4040354	4040567	.	-	.	ID=exon_TGME49_201110.R464-E3;Parent=TGME49_201110.R464;gene_id=TGME49_201110
+TGME49_chrVIIa	VEuPathDB	exon	4040934	4041047	.	-	.	ID=exon_TGME49_201110.R464-E2;Parent=TGME49_201110.R464;gene_id=TGME49_201110
+TGME49_chrVIIa	VEuPathDB	exon	4041340	4041566	.	-	.	ID=exon_TGME49_201110.R464-E1;Parent=TGME49_201110.R464;gene_id=TGME49_201110
+TGME49_chrVIIa	VEuPathDB	CDS	4039700	4039728	.	-	2	ID=TGME49_201110.P464-CDS3;Parent=TGME49_201110.R464;gene_id=TGME49_201110;protein_source_id=TGME49_201110.P464
+TGME49_chrVIIa	VEuPathDB	CDS	4040354	4040567	.	-	0	ID=TGME49_201110.P464-CDS2;Parent=TGME49_201110.R464;gene_id=TGME49_201110;protein_source_id=TGME49_201110.P464
+TGME49_chrVIIa	VEuPathDB	CDS	4040934	4040939	.	-	0	ID=TGME49_201110.P464-CDS1;Parent=TGME49_201110.R464;gene_id=TGME49_201110;protein_source_id=TGME49_201110.P464
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4039322	4039699	.	-	.	ID=utr_TGME49_201110.R464_1;Parent=TGME49_201110.R464
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4040940	4041047	.	-	.	ID=utr_TGME49_201110.R464_2;Parent=TGME49_201110.R464
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4041340	4041566	.	-	.	ID=utr_TGME49_201110.R464_3;Parent=TGME49_201110.R464
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	4028194	4037686	.	+	.	ID=TGME49_201120;description=ELMO domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:S8GEU1];ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	4028194	4037686	.	+	.	ID=TGME49_201120-t26_1;Parent=TGME49_201120;description=ELMO/CED-12 family protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	4028194	4031674	.	+	.	ID=exon_TGME49_201120-t26_1-E1;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120
+TGME49_chrVIIa	VEuPathDB	exon	4032035	4032919	.	+	.	ID=exon_TGME49_201120-t26_1-E2;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120
+TGME49_chrVIIa	VEuPathDB	exon	4033301	4033494	.	+	.	ID=exon_TGME49_201120-t26_1-E3;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120
+TGME49_chrVIIa	VEuPathDB	exon	4034122	4037686	.	+	.	ID=exon_TGME49_201120-t26_1-E4;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120
+TGME49_chrVIIa	VEuPathDB	CDS	4029337	4031674	.	+	0	ID=TGME49_201120-t26_1-p1-CDS1;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120;protein_source_id=TGME49_201120-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4032035	4032919	.	+	2	ID=TGME49_201120-t26_1-p1-CDS2;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120;protein_source_id=TGME49_201120-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4033301	4033494	.	+	2	ID=TGME49_201120-t26_1-p1-CDS3;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120;protein_source_id=TGME49_201120-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4034122	4037478	.	+	0	ID=TGME49_201120-t26_1-p1-CDS4;Parent=TGME49_201120-t26_1;gene_id=TGME49_201120;protein_source_id=TGME49_201120-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4028194	4029336	.	+	.	ID=utr_TGME49_201120-t26_1_1;Parent=TGME49_201120-t26_1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4037479	4037686	.	+	.	ID=utr_TGME49_201120-t26_1_2;Parent=TGME49_201120-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	4019644	4026659	.	+	.	ID=TGME49_201130;Name=ROP33;description=Protein kinase domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:S8GP43];ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	4019644	4026659	.	+	.	ID=TGME49_201130-t26_1;Parent=TGME49_201130;description=rhoptry kinase family protein ROP33;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	4019644	4022615	.	+	.	ID=exon_TGME49_201130-t26_1-E1;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130
+TGME49_chrVIIa	VEuPathDB	exon	4023058	4023167	.	+	.	ID=exon_TGME49_201130-t26_1-E2;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130
+TGME49_chrVIIa	VEuPathDB	exon	4023915	4026659	.	+	.	ID=exon_TGME49_201130-t26_1-E3;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130
+TGME49_chrVIIa	VEuPathDB	CDS	4021513	4022615	.	+	0	ID=TGME49_201130-t26_1-p1-CDS1;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130;protein_source_id=TGME49_201130-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4023058	4023167	.	+	1	ID=TGME49_201130-t26_1-p1-CDS2;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130;protein_source_id=TGME49_201130-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4023915	4024942	.	+	2	ID=TGME49_201130-t26_1-p1-CDS3;Parent=TGME49_201130-t26_1;gene_id=TGME49_201130;protein_source_id=TGME49_201130-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4019644	4021512	.	+	.	ID=utr_TGME49_201130-t26_1_1;Parent=TGME49_201130-t26_1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4024943	4026659	.	+	.	ID=utr_TGME49_201130-t26_1_2;Parent=TGME49_201130-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	4007982	4017415	.	+	.	ID=TGME49_201140;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	4007982	4017415	.	+	.	ID=TGME49_201140-t26_1;Parent=TGME49_201140;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	4007982	4009215	.	+	.	ID=exon_TGME49_201140-t26_1-E1;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4009725	4010084	.	+	.	ID=exon_TGME49_201140-t26_1-E2;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4010545	4011356	.	+	.	ID=exon_TGME49_201140-t26_1-E3;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4011725	4011853	.	+	.	ID=exon_TGME49_201140-t26_1-E4;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4012540	4012695	.	+	.	ID=exon_TGME49_201140-t26_1-E5;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4012837	4012923	.	+	.	ID=exon_TGME49_201140-t26_1-E6;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4013367	4013484	.	+	.	ID=exon_TGME49_201140-t26_1-E7;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4013934	4014116	.	+	.	ID=exon_TGME49_201140-t26_1-E8;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4014788	4014927	.	+	.	ID=exon_TGME49_201140-t26_1-E9;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	exon	4015621	4017415	.	+	.	ID=exon_TGME49_201140-t26_1-E10;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140
+TGME49_chrVIIa	VEuPathDB	CDS	4008450	4009215	.	+	0	ID=TGME49_201140-t26_1-p1-CDS1;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4009725	4010084	.	+	2	ID=TGME49_201140-t26_1-p1-CDS2;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4010545	4011356	.	+	2	ID=TGME49_201140-t26_1-p1-CDS3;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4011725	4011853	.	+	0	ID=TGME49_201140-t26_1-p1-CDS4;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4012540	4012695	.	+	0	ID=TGME49_201140-t26_1-p1-CDS5;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4012837	4012923	.	+	0	ID=TGME49_201140-t26_1-p1-CDS6;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4013367	4013484	.	+	0	ID=TGME49_201140-t26_1-p1-CDS7;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4013934	4014116	.	+	2	ID=TGME49_201140-t26_1-p1-CDS8;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4014788	4014927	.	+	2	ID=TGME49_201140-t26_1-p1-CDS9;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4015621	4016025	.	+	0	ID=TGME49_201140-t26_1-p1-CDS10;Parent=TGME49_201140-t26_1;gene_id=TGME49_201140;protein_source_id=TGME49_201140-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	4007982	4008449	.	+	.	ID=utr_TGME49_201140-t26_1_1;Parent=TGME49_201140-t26_1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4016026	4017415	.	+	.	ID=utr_TGME49_201140-t26_1_2;Parent=TGME49_201140-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3994082	4005560	.	+	.	ID=TGME49_201150;description=Heavy metal translocating P-type ATPase subfamily protein [Source:UniProtKB/TrEMBL%3BAcc:S8F6K7];ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3994082	4005560	.	+	.	ID=TGME49_201150-t26_1;Parent=TGME49_201150;Note=3.6.3.4 (Transferred entry: 7.2.2.9)%3B3.6.3.8 (Transferred entry: 7.2.2.10);description=heavy metal translocating P-type ATPase subfamily protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3994082	3994448	.	+	.	ID=exon_TGME49_201150-t26_1-E1;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	3994916	3995171	.	+	.	ID=exon_TGME49_201150-t26_1-E2;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	3995873	3997044	.	+	.	ID=exon_TGME49_201150-t26_1-E3;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	3997340	3998809	.	+	.	ID=exon_TGME49_201150-t26_1-E4;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	3999052	3999374	.	+	.	ID=exon_TGME49_201150-t26_1-E5;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	3999656	3999855	.	+	.	ID=exon_TGME49_201150-t26_1-E6;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4000273	4000413	.	+	.	ID=exon_TGME49_201150-t26_1-E7;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4000536	4001141	.	+	.	ID=exon_TGME49_201150-t26_1-E8;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4001495	4001979	.	+	.	ID=exon_TGME49_201150-t26_1-E9;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4002155	4002224	.	+	.	ID=exon_TGME49_201150-t26_1-E10;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4002707	4002928	.	+	.	ID=exon_TGME49_201150-t26_1-E11;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4003036	4003177	.	+	.	ID=exon_TGME49_201150-t26_1-E12;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4003500	4003712	.	+	.	ID=exon_TGME49_201150-t26_1-E13;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	exon	4004298	4005560	.	+	.	ID=exon_TGME49_201150-t26_1-E14;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150
+TGME49_chrVIIa	VEuPathDB	CDS	3994191	3994448	.	+	0	ID=TGME49_201150-t26_1-p1-CDS1;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3994916	3995171	.	+	0	ID=TGME49_201150-t26_1-p1-CDS2;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3995873	3997044	.	+	2	ID=TGME49_201150-t26_1-p1-CDS3;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3997340	3998809	.	+	0	ID=TGME49_201150-t26_1-p1-CDS4;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3999052	3999374	.	+	0	ID=TGME49_201150-t26_1-p1-CDS5;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3999656	3999855	.	+	1	ID=TGME49_201150-t26_1-p1-CDS6;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4000273	4000413	.	+	2	ID=TGME49_201150-t26_1-p1-CDS7;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4000536	4001141	.	+	2	ID=TGME49_201150-t26_1-p1-CDS8;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4001495	4001979	.	+	2	ID=TGME49_201150-t26_1-p1-CDS9;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4002155	4002224	.	+	0	ID=TGME49_201150-t26_1-p1-CDS10;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4002707	4002928	.	+	2	ID=TGME49_201150-t26_1-p1-CDS11;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4003036	4003177	.	+	2	ID=TGME49_201150-t26_1-p1-CDS12;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4003500	4003712	.	+	1	ID=TGME49_201150-t26_1-p1-CDS13;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	4004298	4004637	.	+	1	ID=TGME49_201150-t26_1-p1-CDS14;Parent=TGME49_201150-t26_1;gene_id=TGME49_201150;protein_source_id=TGME49_201150-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3994082	3994190	.	+	.	ID=utr_TGME49_201150-t26_1_1;Parent=TGME49_201150-t26_1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	4004638	4005560	.	+	.	ID=utr_TGME49_201150-t26_1_2;Parent=TGME49_201150-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3992824	3993845	.	-	.	ID=TGME49_201160;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3992824	3993845	.	-	.	ID=TGME49_201160-t26_1;Parent=TGME49_201160;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3992824	3993845	.	-	.	ID=exon_TGME49_201160-t26_1-E1;Parent=TGME49_201160-t26_1;gene_id=TGME49_201160
+TGME49_chrVIIa	VEuPathDB	CDS	3992964	3993533	.	-	0	ID=TGME49_201160-t26_1-p1-CDS1;Parent=TGME49_201160-t26_1;gene_id=TGME49_201160;protein_source_id=TGME49_201160-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	3992824	3992963	.	-	.	ID=utr_TGME49_201160-t26_1_1;Parent=TGME49_201160-t26_1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3993534	3993845	.	-	.	ID=utr_TGME49_201160-t26_1_2;Parent=TGME49_201160-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3990181	3992821	.	-	.	ID=TGME49_201170;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3990181	3992821	.	-	.	ID=TGME49_201170-t26_1;Parent=TGME49_201170;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3990181	3991131	.	-	.	ID=exon_TGME49_201170-t26_1-E3;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170
+TGME49_chrVIIa	VEuPathDB	exon	3991629	3991858	.	-	.	ID=exon_TGME49_201170-t26_1-E2;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170
+TGME49_chrVIIa	VEuPathDB	exon	3992512	3992821	.	-	.	ID=exon_TGME49_201170-t26_1-E1;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170
+TGME49_chrVIIa	VEuPathDB	CDS	3991003	3991131	.	-	0	ID=TGME49_201170-t26_1-p1-CDS3;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170;protein_source_id=TGME49_201170-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3991629	3991858	.	-	2	ID=TGME49_201170-t26_1-p1-CDS2;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170;protein_source_id=TGME49_201170-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3992512	3992533	.	-	0	ID=TGME49_201170-t26_1-p1-CDS1;Parent=TGME49_201170-t26_1;gene_id=TGME49_201170;protein_source_id=TGME49_201170-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	3990181	3991002	.	-	.	ID=utr_TGME49_201170-t26_1_1;Parent=TGME49_201170-t26_1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3992534	3992821	.	-	.	ID=utr_TGME49_201170-t26_1_2;Parent=TGME49_201170-t26_1
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3982746	3988730	.	-	.	ID=TGME49_201180;Name=MSF;description=megakaryocyte stimulating factor MSF;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3982746	3988730	.	-	.	ID=TGME49_201180.R465;Parent=TGME49_201180;description=megakaryocyte stimulating factor MSF;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3982746	3988730	.	-	.	ID=exon_TGME49_201180.R465-E1;Parent=TGME49_201180.R465;gene_id=TGME49_201180
+TGME49_chrVIIa	VEuPathDB	CDS	3984472	3988185	.	-	0	ID=TGME49_201180.P465-CDS1;Parent=TGME49_201180.R465;gene_id=TGME49_201180;protein_source_id=TGME49_201180.P465
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	3982746	3984471	.	-	.	ID=utr_TGME49_201180.R465_1;Parent=TGME49_201180.R465
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3988186	3988730	.	-	.	ID=utr_TGME49_201180.R465_2;Parent=TGME49_201180.R465
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3976668	3981273	.	+	.	ID=TGME49_201200;Name=CPSF4;description=cleavage and polyadenylation specificity factor subunit 4;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3976668	3981273	.	+	.	ID=TGME49_201200.R466;Parent=TGME49_201200;description=cleavage and polyadenylation specificity factor subunit 4;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3976668	3977748	.	+	.	ID=exon_TGME49_201200.R466-E1;Parent=TGME49_201200.R466;gene_id=TGME49_201200
+TGME49_chrVIIa	VEuPathDB	exon	3978372	3978711	.	+	.	ID=exon_TGME49_201200.R466-E2;Parent=TGME49_201200.R466;gene_id=TGME49_201200
+TGME49_chrVIIa	VEuPathDB	exon	3979284	3980090	.	+	.	ID=exon_TGME49_201200.R466-E3;Parent=TGME49_201200.R466;gene_id=TGME49_201200
+TGME49_chrVIIa	VEuPathDB	exon	3980362	3981273	.	+	.	ID=exon_TGME49_201200.R466-E4;Parent=TGME49_201200.R466;gene_id=TGME49_201200
+TGME49_chrVIIa	VEuPathDB	CDS	3977201	3977748	.	+	0	ID=TGME49_201200.P466-CDS1;Parent=TGME49_201200.R466;gene_id=TGME49_201200;protein_source_id=TGME49_201200.P466
+TGME49_chrVIIa	VEuPathDB	CDS	3978372	3978711	.	+	1	ID=TGME49_201200.P466-CDS2;Parent=TGME49_201200.R466;gene_id=TGME49_201200;protein_source_id=TGME49_201200.P466
+TGME49_chrVIIa	VEuPathDB	CDS	3979284	3980090	.	+	0	ID=TGME49_201200.P466-CDS3;Parent=TGME49_201200.R466;gene_id=TGME49_201200;protein_source_id=TGME49_201200.P466
+TGME49_chrVIIa	VEuPathDB	CDS	3980362	3980589	.	+	0	ID=TGME49_201200.P466-CDS4;Parent=TGME49_201200.R466;gene_id=TGME49_201200;protein_source_id=TGME49_201200.P466
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3976668	3977200	.	+	.	ID=utr_TGME49_201200.R466_1;Parent=TGME49_201200.R466
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	3980590	3981273	.	+	.	ID=utr_TGME49_201200.R466_2;Parent=TGME49_201200.R466
+TGME49_chrVIIa	VEuPathDB	protein_coding_gene	3971965	3976534	.	-	.	ID=TGME49_201210;description=hypothetical protein;ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	mRNA	3971965	3976534	.	-	.	ID=TGME49_201210-t26_1;Parent=TGME49_201210;description=hypothetical protein;gene_ebi_biotype=protein_coding
+TGME49_chrVIIa	VEuPathDB	exon	3971965	3973742	.	-	.	ID=exon_TGME49_201210-t26_1-E2;Parent=TGME49_201210-t26_1;gene_id=TGME49_201210
+TGME49_chrVIIa	VEuPathDB	exon	3974468	3976534	.	-	.	ID=exon_TGME49_201210-t26_1-E1;Parent=TGME49_201210-t26_1;gene_id=TGME49_201210
+TGME49_chrVIIa	VEuPathDB	CDS	3973350	3973742	.	-	0	ID=TGME49_201210-t26_1-p1-CDS2;Parent=TGME49_201210-t26_1;gene_id=TGME49_201210;protein_source_id=TGME49_201210-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	CDS	3974468	3976204	.	-	0	ID=TGME49_201210-t26_1-p1-CDS1;Parent=TGME49_201210-t26_1;gene_id=TGME49_201210;protein_source_id=TGME49_201210-t26_1-p1
+TGME49_chrVIIa	VEuPathDB	three_prime_UTR	3971965	3973349	.	-	.	ID=utr_TGME49_201210-t26_1_1;Parent=TGME49_201210-t26_1
+TGME49_chrVIIa	VEuPathDB	five_prime_UTR	3976205	3976534	.	-	.	ID=utr_TGME49_201210-t26_1_2;Parent=TGME49_201210-t26_1
