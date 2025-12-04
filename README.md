@@ -36,6 +36,10 @@ TGME49_302057	513	956	-	TGME49_302057	513	956	-
 TGME49_302055	977	1342	-	TGME49_302055	977	1342	-
 TGME49_300601	1349	1756	-	TGME49_300601	1349	1756	-
 ```
+[](https://github.com/rustcodepro/toxpy/blob/main/barplot-1.png)
+
+[](https://github.com/rustcodepro/toxpy/blob/main/barplot-2.png)
+
 
 Gaurav Sablok \
 codeprog@icloud.com
