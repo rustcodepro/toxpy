@@ -1,6 +1,6 @@
 # toxpy
 
-- python interface for ToxDB
+- python interface for ToxDB with annotation figures and tables.
 - From bioinformatics data analysis to machine and deep learning model.
 - a complete package which performs the ToxDB comparison and also fits a LSTM and Convolutional Neural Network with L2 regularization
 ```
