@@ -18,10 +18,12 @@ from cnn import toxcnn_l2_regularization
 from differentprotein import toxcompare_different_proteins
 from differentproteinsameseq import toxcompare_different_protein_same_sequences
 from lstm import tox_lstm
+from mrnacompare import mrna_comparison
 from sameproteindifferentseq import toxcompare_same_proteins_different_sequences
 from sameproteindiffstrand import toxcompare_same_proteins_different_strand
 from sameproteins import toxcompare_same_proteins
 from sameproteinsamstrand import toxcompare_same_proteins_with_same_strand
+from sequencecompare import mrnasequencecompare
 
 
 @click.group()
@@ -129,6 +131,32 @@ def toxcompare_f_option(gff_file1, gff_file2, fastafile1, fastafile2):
 		show the similar geneid and their associated information.
 	  This compares the gff and the fasta to have the same ids and the same sequences."""
     toxcompare_same_proteins_different_sequences(gff_file1, gff_file2, fastafile1, fastafile2)
+
+@cli.command()
+@click.argument('fastafile_1', type=click.Path(exists=True))
+@click.argument('fastafile_2', type=click.Path(exists=True))
+@click.argument('gff_file1', type=click.Path(exists=True))
+@click.argument('gff_file2', type=click.Path(exists=True))
+def toxcomplare_g_option(gff_file1, gff_file2, fastafile1, fastafile2):
+    """
+    compare mrna and seq
+
+	 This compares the mrna sequences and the coding sequences and
+	 gives you the comparison as which sequences are same, which are different
+    """
+    mrnasequencecompare(fastafile1, fastafile2, gff_file1, gff_file2)
+
+@cli.command()
+@click.argument('gff_file1', type=click.Path(exists=True))
+@click.argument('gff_file2', type=click.Path(exists=True))
+def toxcomplare_h_option(gff_file1, gff_file2):
+    """
+    compare mrna for the comparative analysis
+
+	 This compares the two diferent mRNA gff and gives you the comparative
+	 analysis
+    """
+    mrna_comparison(gff_file1, gff_file2)
 
 @cli.command()
 @click.argument('dnaseq', type=click.Path(exists=True))

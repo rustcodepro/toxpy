@@ -3,7 +3,7 @@ import seaborn as sns
 from typing_extensions import List, Tuple
 
 
-def toxcompare_same_proteins_different_sequences(gff_file1:str, gff_file2:str, fastafile1:str, fastafile2:str):
+def toxcompare_same_proteins_different_sequences(gff_file1:str, gff_file2:str, fastafile1:str, fastafile2:str) -> str:
 	"""
 	   This function takes the path of the ToxannotationDB file
 				and compared for the sequences of the protein coding.
@@ -117,3 +117,4 @@ def toxcompare_same_proteins_different_sequences(gff_file1:str, gff_file2:str, f
 		for i in range(len(proteindifference)):
 			filecommon.write(str(proteindifference[i][0]) + '\t' + str(proteindifference[i][1]) + str(proteindifference[i][2]) + '\n')
 	filecommon.close()
+	return "The files have been written for the comparative analysis"

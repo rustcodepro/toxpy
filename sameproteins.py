@@ -6,7 +6,7 @@ from typing_extensions import List, Tuple
 # Gaurav Sablok
 # codeprog@icloud.com
 
-def toxcompare_same_proteins(pathfile1: str, pathfile2:str):
+def toxcompare_same_proteins(pathfile1: str, pathfile2:str) -> str:
 	"""
 	   This function takes the path of the ToxannotationDB file
 				and compared for the sequences of the protein coding.
@@ -64,27 +64,51 @@ def toxcompare_same_proteins(pathfile1: str, pathfile2:str):
 	proteinlength2:List[int] = []
 	for i in range(len(common_proteins)):
 		proteinnames1.append(common_proteins[i][0][0])
-		proteinlength1.append(abs(int(common_proteins[i][0][2]- common_proteins[i][0][1])))
+		proteinlength1.append(abs(int(common_proteins[i][0][2]-common_proteins[i][0][1])))
 	for i in range(len(common_proteins)):
 		proteinnames2.append(common_proteins[i][1][0])
-		proteinlength2.append(abs(int(common_proteins[i][1][2]- common_proteins[i][1][1])))
+		proteinlength2.append(abs(int(common_proteins[i][1][2]-common_proteins[i][1][1])))
 	proteindifference:List[Tuple[str, int,int]] = []
 	for i in range(len(common_proteins)):
 		valuename:str = common_proteins[i][0][0]
 		startdifference: int = common_proteins[i][0][1]-common_proteins[i][1][1]
 		enddifference:int = common_proteins[i][0][2] - common_proteins[i][1][2]
 		proteindifference.append((valuename, startdifference, enddifference))
-	proteindifferencenames:list[str] = [proteindifference[i][0] for i in range(len(proteindifference)) ]
 	proteinstartdifflength:list[int] = [proteindifference[i][1] for i in range(len(proteindifference)) ]
 	proteinenddifferencelength:List[int] = [proteindifference[i][2] for i in range(len(proteindifference))]
-	_ = sns.barplot(x = proteindifferencenames, y = proteinstartdifflength, dpi= 300)
+	_ = sns.barplot(x = proteinstartdifflength, dpi= 300)
 	plt.savefig("startdifference.png")
-	_ = sns.barplot(x = proteindifferencenames, y = proteinenddifferencelength, dpi = 300)
+	_ = sns.barplot(x = proteinenddifferencelength, dpi = 300)
 	plt.savefig("enddifference.png")
-	_ = sns.barplot(x = proteinnames1, y = proteinlength1, hue = proteinlength1)
+	_ = sns.barplot(x = proteinlength1, hue = proteinlength1)
 	plt.savefig('barplot-1.png', dpi=300)
-	_ = sns.barplot(x = proteinnames2, y = proteinlength2, hue = proteinlength2)
+	_ = sns.barplot(x = proteinlength2, hue = proteinlength2)
 	plt.savefig('barplot-2.png', dpi=300)
+
+
+	samestrand_samestart_sameend:List[List[Tuple]] = []
+	differentstrand_differentstart_sameend:List[List[Tuple]] = []
+	differentstrand_samestart_sameend:List[List[Tuple]] = []
+	samestrand_samestart_differentend:List[List[Tuple]] = []
+
+
+	for i in range(len(common_proteins)):
+		if common_proteins[i][0][1] == common_proteins[i][1][1] and common_proteins[i][0][2] == common_proteins[i][1][2] and common_proteins[i][0][3] == common_proteins[i][1][3]:
+			samestrand_samestart_sameend.append(common_proteins[i])
+
+	for i in range(len(common_proteins)):
+		if common_proteins[i][0][1] != common_proteins[i][1][1] and common_proteins[i][0][2] == common_proteins[i][1][2] and common_proteins[i][0][3] != common_proteins[i][1][3]:
+			differentstrand_differentstart_sameend.append(common_proteins[i])
+
+	for i in range(len(common_proteins)):
+		if common_proteins[i][0][1] == common_proteins[i][1][1] and common_proteins[i][0][2] == common_proteins[i][1][2] and common_proteins[i][0][3] != common_proteins[i][1][3]:
+			differentstrand_samestart_sameend.append(common_proteins[i])
+
+	for i in range(len(common_proteins)):
+		if common_proteins[i][0][1] == common_proteins[i][1][1] and common_proteins[i][0][2] != common_proteins[i][1][2] and common_proteins[i][0][3] == common_proteins[i][1][3]:
+			samestrand_samestart_differentend.append(common_proteins[i])
+
+
 	with open("comparative-common.txt", 'w') as filewrite:
 		filewrite.write("id1"+ '\t' + "id2" + '\t' + "id1start" + '\t' + "id2start" + '\t' + "id1end" + '\t' + "id2end" + '\t' + "id1strand1" + '\t' + "idstrand2" + "\n")
 		for i in range(len(common_proteins)):
@@ -96,3 +120,28 @@ def toxcompare_same_proteins(pathfile1: str, pathfile2:str):
 		for i in range(len(proteindifference)):
 				filecommon.write(str(proteindifference[i][0]) + '\t' + str(proteindifference[i][1]) + str(proteindifference[i][2]) + '\n')
 		filecommon.close()
+	with open("samestrand_samestart_sameend.txt", 'w') as filewrite1:
+		filewrite1.write("id1"+ '\t' + "id2" + '\t' + "id1start" + '\t' + "id2start" + '\t' + "id1end" + '\t' + "id2end" + '\t' + "id1strand1" + '\t' + "idstrand2" + "\n")
+		for i in range(len(samestrand_samestart_sameend)):
+			filewrite1.write(str(samestrand_samestart_sameend[i][0][0]) +'\t' + str(samestrand_samestart_sameend[i][0][1]) +'\t' + str(samestrand_samestart_sameend[i][0][2]) +'\t' + str(samestrand_samestart_sameend[i][0][3]) +'\t' + str(samestrand_samestart_sameend[i][1][0]) +'\t'
+				+ str(samestrand_samestart_sameend[i][1][1]) +'\t' + str(samestrand_samestart_sameend[i][1][2]) +'\t' + str(samestrand_samestart_sameend[i][1][3]) + '\n')
+		filewrite1.close()
+	with open("differentstrand_differentstart_sameend.txt", 'w') as filewrite2:
+		filewrite2.write("id1"+ '\t' + "id2" + '\t' + "id1start" + '\t' + "id2start" + '\t' + "id1end" + '\t' + "id2end" + '\t' + "id1strand1" + '\t' + "idstrand2" + "\n")
+		for i in range(len(differentstrand_differentstart_sameend)):
+			filewrite2.write(str(differentstrand_differentstart_sameend[i][0][0]) +'\t' + str(differentstrand_differentstart_sameend[i][0][1]) +'\t' + str(differentstrand_differentstart_sameend[i][0][2]) +'\t' + str(differentstrand_differentstart_sameend[i][0][3]) +'\t' + str(differentstrand_differentstart_sameend[i][1][0]) +'\t'
+				+ str(differentstrand_differentstart_sameend[i][1][1]) +'\t' + str(differentstrand_differentstart_sameend[i][1][2]) +'\t' + str(differentstrand_differentstart_sameend[i][1][3]) + '\n')
+		filewrite2.close()
+	with open("differentstrand_samestart_sameend.txt", 'w') as filewrite3:
+		filewrite3.write("id1"+ '\t' + "id2" + '\t' + "id1start" + '\t' + "id2start" + '\t' + "id1end" + '\t' + "id2end" + '\t' + "id1strand1" + '\t' + "idstrand2" + "\n")
+		for i in range(len(differentstrand_samestart_sameend)):
+			filewrite3.write(str(differentstrand_samestart_sameend[i][0][0]) +'\t' + str(differentstrand_samestart_sameend[i][0][1]) +'\t' + str(differentstrand_samestart_sameend[i][0][2]) +'\t' + str(differentstrand_samestart_sameend[i][0][3]) +'\t' + str(differentstrand_samestart_sameend[i][1][0]) +'\t'
+				+ str(differentstrand_samestart_sameend[i][1][1]) +'\t' + str(differentstrand_samestart_sameend[i][1][2]) +'\t' + str(differentstrand_samestart_sameend[i][1][3]) + '\n')
+		filewrite3.close()
+	with open("samestrand_samestart_differentend.txt", 'w') as filewrite4:
+		filewrite4.write("id1"+ '\t' + "id2" + '\t' + "id1start" + '\t' + "id2start" + '\t' + "id1end" + '\t' + "id2end" + '\t' + "id1strand1" + '\t' + "idstrand2" + "\n")
+		for i in range(len(samestrand_samestart_differentend)):
+			filewrite4.write(str(samestrand_samestart_differentend[i][0][0]) +'\t' + str(samestrand_samestart_differentend[i][0][1]) +'\t' + str(samestrand_samestart_differentend[i][0][2]) +'\t' + str(samestrand_samestart_differentend[i][0][3]) +'\t' + str(samestrand_samestart_differentend[i][1][0]) +'\t'
+				+ str(samestrand_samestart_differentend[i][1][1]) +'\t' + str(samestrand_samestart_differentend[i][1][2]) +'\t' + str(samestrand_samestart_differentend[i][1][3]) + '\n')
+		filewrite4.close()
+	return "The files have been written for the comparative analysis"

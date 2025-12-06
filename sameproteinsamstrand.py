@@ -5,7 +5,7 @@ from typing_extensions import List, Tuple
 # Gaurav Sablok
 # codeprog@icloud.com
 
-def toxcompare_same_proteins_with_same_strand(pathfile1:str, pathfile2:str):
+def toxcompare_same_proteins_with_same_strand(pathfile1:str, pathfile2:str) -> str:
 	"""
 	   This function takes the path of the ToxannotationDB file
 				and compared for the sequences of the protein coding.
@@ -96,3 +96,4 @@ def toxcompare_same_proteins_with_same_strand(pathfile1:str, pathfile2:str):
 		for i in range(len(proteindifference)):
 				filecommon.write(str(proteindifference[i][0]) + '\t' + str(proteindifference[i][1]) + str(proteindifference[i][2]) + '\n')
 		filecommon.close()
+	return "The files have been written for the comparative analysis"
